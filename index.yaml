@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  kubebackup:
+  - apiVersion: v1
+    appVersion: 0.1.15
+    created: "2020-01-30T23:02:20.516828214-06:00"
+    description: KubeBackup is a tool for backing up the configuration files in a
+      Kubernetes cluster and uploading them to a S3 bucket.
+    digest: 55430ac55b0e767656b518f892a4e4c9e322f5db88aa066734a18ff4621d3a59
+    home: https://github.com/mattmattox/kubebackup
+    icon: https://github.com/mattmattox/kubebackup/raw/master/assets/kubebackup-logo.png
+    keywords:
+    - kubernetes
+    - backup
+    maintainers:
+    - email: Matthew.Mattox@rancher.com
+      name: mattmattox
+    name: kubebackup
+    sources:
+    - https://github.com/mattmattox/kubebackup
+    urls:
+    - https://mattmattox.github.io/helm-chart/kubebackup-0.1.15.tgz
+    version: 0.1.15
+generated: "2020-01-30T23:02:20.513142975-06:00"
