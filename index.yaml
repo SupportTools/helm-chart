@@ -3,7 +3,7 @@ entries:
   kubebackup:
   - apiVersion: v1
     appVersion: 0.1.15
-    created: "2020-06-22T16:18:12.955811899-05:00"
+    created: "2020-06-22T16:26:25.806689298-05:00"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 55430ac55b0e767656b518f892a4e4c9e322f5db88aa066734a18ff4621d3a59
@@ -23,8 +23,28 @@ entries:
     version: 0.1.15
   systems-information:
   - apiVersion: v1
+    appVersion: 0.0.1-rc3
+    created: "2020-06-22T16:26:25.809728728-05:00"
+    description: Rancher Systems Summary Report
+    digest: d52b92b4ce665e82810378d1f062e85952c022a156bcd109d29fe06f6c92caa9
+    home: support.rancher.com
+    icon: https://rancher.com/img/brand-guidelines/assets/logos/png/color/rancher-logo-stacked-color.png
+    keywords:
+    - rancher
+    - support
+    maintainers:
+    - email: Matthew.Mattox@rancher.com
+      name: mattmattox
+    name: systems-information
+    sources:
+    - https://github.com/rancherlabs/support-tools
+    type: application
+    urls:
+    - https://mattmattox.github.io/helm-chart/systems-information-0.0.1-rc3.tgz
+    version: 0.0.1-rc3
+  - apiVersion: v2
     appVersion: 0.0.1-rc2
-    created: "2020-06-22T16:18:12.957073275-05:00"
+    created: "2020-06-22T16:26:25.80873928-05:00"
     description: Rancher Systems Summary Report
     digest: 1dfc0b79dfa1dcb727fdf8acad364df0be99ce5e8184c7c28ad30369903c0bc3
     home: support.rancher.com
@@ -42,9 +62,9 @@ entries:
     urls:
     - https://mattmattox.github.io/helm-chart/systems-information-0.0.1-rc2.tgz
     version: 0.0.1-rc2
-  - apiVersion: v1
+  - apiVersion: v2
     appVersion: 0.0.1-rc1
-    created: "2020-06-22T16:18:12.956434763-05:00"
+    created: "2020-06-22T16:26:25.807773853-05:00"
     description: Rancher Systems Summary Report
     digest: 038a060e89eec1ede7ec96f0012ed61e8217e0d9c75f529a9d1436e5640d615d
     home: support.rancher.com
@@ -62,4 +82,4 @@ entries:
     urls:
     - https://mattmattox.github.io/helm-chart/systems-information-0.0.1-rc1.tgz
     version: 0.0.1-rc1
-generated: "2020-06-22T16:18:12.953676591-05:00"
+generated: "2020-06-22T16:26:25.804461294-05:00"
