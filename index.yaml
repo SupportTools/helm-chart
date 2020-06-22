@@ -22,7 +22,7 @@ entries:
     - https://mattmattox.github.io/helm-chart/kubebackup-0.1.15.tgz
     version: 0.1.15
   systems-information:
-  - apiVersion: v2
+  - apiVersion: v1
     appVersion: 0.0.1-rc2
     created: "2020-06-22T16:18:12.957073275-05:00"
     description: Rancher Systems Summary Report
@@ -42,7 +42,7 @@ entries:
     urls:
     - https://mattmattox.github.io/helm-chart/systems-information-0.0.1-rc2.tgz
     version: 0.0.1-rc2
-  - apiVersion: v2
+  - apiVersion: v1
     appVersion: 0.0.1-rc1
     created: "2020-06-22T16:18:12.956434763-05:00"
     description: Rancher Systems Summary Report
