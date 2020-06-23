@@ -5,9 +5,7 @@ metadata:
   labels:
     app: {{ template "systems-information.name" . }}
     chart: {{ template "systems-information.chart" . }}
-    release: {{ .Release.Name }}
-    heritage: {{ .Release.Service }}
-    kubernetes.io/cluster-service: "true"
+    release: {{ template "systems-information.name" . }}
 spec:
   schedule: {{ .Values.schedule | quote }}
   jobTemplate:
