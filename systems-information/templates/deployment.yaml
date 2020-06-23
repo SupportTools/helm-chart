@@ -2,12 +2,12 @@ apiVersion: batch/v1beta1
 kind: CronJob
 metadata:
   name: {{ .Values.Name }}
-  namespace: {{ .Values.Namespace }}
   labels:
-    app: {{ .Values.Name }}
-    chart: {{ .Values.Name }}
-    heritage: {{ .Values.Name }}
-    release: {{ .Values.Name }}
+    app: {{ template "systems-information.name" . }}
+    chart: {{ template "systems-information.chart" . }}
+    release: {{ .Release.Name }}
+    heritage: {{ .Release.Service }}
+    kubernetes.io/cluster-service: "true"
 spec:
   schedule: {{ .Values.schedule | quote }}
   jobTemplate:

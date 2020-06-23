@@ -6,10 +6,6 @@ image:
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
-Name: "systems-information"
-nameOverride: "systems-information"
-fullnameOverride: "rancher-systems-information"
-namespace: "cattle-support"
 
 resources:
   limits:
