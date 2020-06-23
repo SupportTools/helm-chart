@@ -7,6 +7,14 @@ image:
 
 imagePullSecrets: []
 
+rbac:
+  create: true
+  clusterAdminRole: true
+
+serviceAccount:
+  create: true
+  name: systems-information
+
 resources:
   limits:
     cpu: 100m
