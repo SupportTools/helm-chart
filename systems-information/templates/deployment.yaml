@@ -1,11 +1,7 @@
 apiVersion: batch/v1beta1
 kind: CronJob
 metadata:
-  labels:
-    app: {{ template "Release.Name" . }}
-    chart: {{ template "Release.chart" . }}
-    release: {{ template "Release.Name" . }}
-  name: {{ template "Release.Name" . }}
+  name: systems-information
 spec:
   schedule: {{ .Values.schedule | quote }}
   jobTemplate:
