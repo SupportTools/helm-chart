@@ -1,12 +1,15 @@
 apiVersion: batch/v1beta1
 kind: CronJob
 metadata:
-  name: rancher-systems-information
-  namespace: {{ .Values.namespace }}
+  name: {{ .Values.Name }}
+  namespace: {{ .Values.Namespace }}
   labels:
-    app: systems-information
+    app: {{ .Values.Name }}
+    chart: {{ .Values.Name }}
+    heritage: {{ .Values.Name }}
+    release: {{ .Values.Name }}
 spec:
-  schedule: {{ .Values.schedule }}
+  schedule: {{ .Values.schedule | quote }}
   jobTemplate:
     spec:
       template:
@@ -43,5 +46,4 @@ spec:
           dnsPolicy: ClusterFirst
           restartPolicy: Never
           schedulerName: default-scheduler
-          serviceAccount: rancher
-          serviceAccountName: rancher
+          serviceAccountName: systems-information

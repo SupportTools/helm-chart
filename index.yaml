@@ -3,7 +3,7 @@ entries:
   kubebackup:
   - apiVersion: v1
     appVersion: 0.1.15
-    created: "2020-06-22T20:57:04.97122644-05:00"
+    created: "2020-06-22T21:14:30.723136795-05:00"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 55430ac55b0e767656b518f892a4e4c9e322f5db88aa066734a18ff4621d3a59
@@ -23,8 +23,28 @@ entries:
     version: 0.1.15
   systems-information:
   - apiVersion: v1
+    appVersion: 0.0.1-rc8
+    created: "2020-06-22T21:14:30.728655696-05:00"
+    description: Rancher Systems Summary Report
+    digest: 3418d24c65ca06acbdb13a0fa19efbd402ff7766767ad6083405b5af1a6deca7
+    home: https://support.rancher.com
+    icon: https://rancher.com/img/brand-guidelines/assets/logos/png/color/rancher-logo-stacked-color.png
+    keywords:
+    - rancher
+    - support
+    maintainers:
+    - email: Matthew.Mattox@rancher.com
+      name: mattmattox
+    name: systems-information
+    sources:
+    - https://github.com/rancherlabs/support-tools
+    type: application
+    urls:
+    - https://mattmattox.github.io/helm-chart/systems-information-0.0.1-rc8.tgz
+    version: 0.0.1-rc8
+  - apiVersion: v1
     appVersion: 0.0.1-rc7
-    created: "2020-06-22T20:57:04.976950005-05:00"
+    created: "2020-06-22T21:14:30.727904266-05:00"
     description: Rancher Systems Summary Report
     digest: 842dd7a7a89a5e40dfb0fdd097bbcf9bb48fff2e1fb4dadad47a7c88b20be335
     home: https://support.rancher.com
@@ -44,7 +64,7 @@ entries:
     version: 0.0.1-rc7
   - apiVersion: v1
     appVersion: 0.0.1-rc6
-    created: "2020-06-22T20:57:04.976266646-05:00"
+    created: "2020-06-22T21:14:30.727101476-05:00"
     description: Rancher Systems Summary Report
     digest: 82a6d9b08b39a3b5c78bec1ba42c78de5c049a74e667915a2e1f477db61bcfc6
     home: support.rancher.com
@@ -64,7 +84,7 @@ entries:
     version: 0.0.1-rc6
   - apiVersion: v1
     appVersion: 0.0.1-rc5
-    created: "2020-06-22T20:57:04.975601105-05:00"
+    created: "2020-06-22T21:14:30.726448192-05:00"
     description: Rancher Systems Summary Report
     digest: 0dc0dacaec6e8eb402ead56ec6c9510e1266481738128d28759cb7c49778254a
     home: support.rancher.com
@@ -84,7 +104,7 @@ entries:
     version: 0.0.1-rc5
   - apiVersion: v1
     appVersion: 0.0.1-rc4
-    created: "2020-06-22T20:57:04.974917253-05:00"
+    created: "2020-06-22T21:14:30.725813812-05:00"
     description: Rancher Systems Summary Report
     digest: 7ccb65a9f02dc4d52f2a776cd18cbb6a0780c065aa8ed8ff6c18a610c8976a3f
     home: support.rancher.com
@@ -104,7 +124,7 @@ entries:
     version: 0.0.1-rc4
   - apiVersion: v1
     appVersion: 0.0.1-rc3
-    created: "2020-06-22T20:57:04.974210872-05:00"
+    created: "2020-06-22T21:14:30.725139894-05:00"
     description: Rancher Systems Summary Report
     digest: d52b92b4ce665e82810378d1f062e85952c022a156bcd109d29fe06f6c92caa9
     home: support.rancher.com
@@ -124,7 +144,7 @@ entries:
     version: 0.0.1-rc3
   - apiVersion: v2
     appVersion: 0.0.1-rc2
-    created: "2020-06-22T20:57:04.973496603-05:00"
+    created: "2020-06-22T21:14:30.724487627-05:00"
     description: Rancher Systems Summary Report
     digest: 1dfc0b79dfa1dcb727fdf8acad364df0be99ce5e8184c7c28ad30369903c0bc3
     home: support.rancher.com
@@ -144,7 +164,7 @@ entries:
     version: 0.0.1-rc2
   - apiVersion: v2
     appVersion: 0.0.1-rc1
-    created: "2020-06-22T20:57:04.971869298-05:00"
+    created: "2020-06-22T21:14:30.723846016-05:00"
     description: Rancher Systems Summary Report
     digest: 038a060e89eec1ede7ec96f0012ed61e8217e0d9c75f529a9d1436e5640d615d
     home: support.rancher.com
@@ -162,4 +182,4 @@ entries:
     urls:
     - https://mattmattox.github.io/helm-chart/systems-information-0.0.1-rc1.tgz
     version: 0.0.1-rc1
-generated: "2020-06-22T20:57:04.970226579-05:00"
+generated: "2020-06-22T21:14:30.722016194-05:00"

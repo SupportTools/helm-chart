@@ -2,7 +2,6 @@ labels:
   io.cattle.role: cluster # options are cluster/project
 categories:
   - Support
-namespace: cattle-system
 questions:
 - variable: defaultImage
   default: true
@@ -49,7 +48,7 @@ questions:
   label: Send report to Rancher Support
   required: false
   group: "General Settings"
-- variable: smpt_host
+- variable: smtp_host
   default: ""
   description: "SMTP server hostname"
   type: string
