@@ -9,7 +9,7 @@ imagePullSecrets: []
 Name: "systems-information"
 nameOverride: "systems-information"
 fullnameOverride: "rancher-systems-information"
-Namespace: "cattle-support"
+namespace: "cattle-support"
 
 resources:
   limits:
