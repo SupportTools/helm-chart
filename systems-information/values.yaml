@@ -7,7 +7,8 @@ image:
 
 imagePullSecrets: []
 
-Namespace: cattle-support
+Name: systems-information
+Namespace: systems-information
 
 rbac:
   create: true

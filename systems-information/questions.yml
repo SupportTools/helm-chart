@@ -1,8 +1,9 @@
 labels:
-  io.cattle.role: cluster # options are cluster/project
+  io.cattle.role: project # options are cluster/project
 categories:
   - Support
-Namespace: cattle-support
+Name: systems-information
+Namespace: systems-information
 questions:
 - variable: defaultImage
   default: true

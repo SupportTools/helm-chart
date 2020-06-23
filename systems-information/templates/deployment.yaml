@@ -3,9 +3,9 @@ kind: CronJob
 metadata:
   name: {{ .Values.Name }}
   labels:
-    app: {{ template "systems-information.name" . }}
+    app: {{ template "systems-information.Name" . }}
     chart: {{ template "systems-information.chart" . }}
-    release: {{ template "systems-information.name" . }}
+    release: {{ template "systems-information.Name" . }}
 spec:
   schedule: {{ .Values.schedule | quote }}
   jobTemplate:
