@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: docker.io/cube8021/rancher-systems-information
-  tag: v0.0.1-rc1
+  tag: v0.0.1-rc2
   pullPolicy: IfNotPresent
 
 imagePullSecrets: []
