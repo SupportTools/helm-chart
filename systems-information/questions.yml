@@ -2,6 +2,7 @@ labels:
   io.cattle.role: cluster # options are cluster/project
 categories:
   - Support
+namespace: cattle-support
 questions:
 - variable: defaultImage
   default: true
