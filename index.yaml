@@ -2,8 +2,26 @@ apiVersion: v1
 entries:
   drain-node-on-crash:
   - apiVersion: v1
+    appVersion: v1.0-rc9
+    created: "2020-09-07T18:03:13.394933468-05:00"
+    description: A simple little for fixing kubernetes issues.
+    digest: 83e51ca6c93fc0a2d0f9fa648b3feea3672c4d74ef3bc99c4346fba6b840e8f6
+    home: https://Support.Tools
+    icon: https://TBD.svg
+    keywords:
+    - drain-node-on-crash
+    maintainers:
+    - email: mmattox@support.tools
+      name: Matthew Mattox
+    name: drain-node-on-crash
+    sources:
+    - https://github.com/mattmattox/drain-node-on-crash
+    urls:
+    - https://mattmattox.github.io/helm-chart/drain-node-on-crash-v1.0-rc9.tgz
+    version: v1.0-rc9
+  - apiVersion: v1
     appVersion: v1.0-rc8
-    created: "2020-09-07T17:17:05.74162272-05:00"
+    created: "2020-09-07T18:03:13.393734907-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: f00a9a494e58dad8b460d1ea90ee7ee56e100c471ab9e8d5b643d177777e3f7c
     home: https://Support.Tools
@@ -21,7 +39,7 @@ entries:
     version: v1.0-rc8
   - apiVersion: v1
     appVersion: v1.0-rc7
-    created: "2020-09-07T17:17:05.740112594-05:00"
+    created: "2020-09-07T18:03:13.392650954-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: 5ad54d9ed300eedf4cbe73527c48a88d3f1e3423db3bb94e154e6a788e7e7d5d
     home: https://Support.Tools
@@ -39,7 +57,7 @@ entries:
     version: v1.0-rc7
   - apiVersion: v1
     appVersion: v1.0-rc6
-    created: "2020-09-07T17:17:05.738754484-05:00"
+    created: "2020-09-07T18:03:13.391660908-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: 7257e71df4c4273128b0358f3960d0b00f7b400f11e181467ad7a85895ebd669
     home: https://Support.Tools
@@ -57,7 +75,7 @@ entries:
     version: v1.0-rc6
   - apiVersion: v1
     appVersion: v1.0-rc5
-    created: "2020-09-07T17:17:05.737609285-05:00"
+    created: "2020-09-07T18:03:13.390456985-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: d49e846437f87ccae11ecb95dceccf3346c31da9d60de610b2e12f90e0d9227a
     home: https://Support.Tools
@@ -76,7 +94,7 @@ entries:
   kubebackup:
   - apiVersion: v1
     appVersion: 0.1.15
-    created: "2020-09-07T17:17:05.743896201-05:00"
+    created: "2020-09-07T18:03:13.396880842-05:00"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 55430ac55b0e767656b518f892a4e4c9e322f5db88aa066734a18ff4621d3a59
@@ -97,7 +115,7 @@ entries:
   systems-information:
   - apiVersion: v1
     appVersion: 0.0.1-rc3
-    created: "2020-09-07T17:17:05.748710953-05:00"
+    created: "2020-09-07T18:03:13.399743389-05:00"
     description: Rancher Systems Summary Report
     digest: e1b15ecbadf97a3655a01ceb7a8019e72e7883dd844657ddf78fe95b969f631a
     home: https://support.rancher.com
@@ -117,7 +135,7 @@ entries:
     version: 0.0.1-rc3
   - apiVersion: v2
     appVersion: 0.0.1-rc2
-    created: "2020-09-07T17:17:05.74565877-05:00"
+    created: "2020-09-07T18:03:13.398352244-05:00"
     description: Rancher Systems Summary Report
     digest: 1dfc0b79dfa1dcb727fdf8acad364df0be99ce5e8184c7c28ad30369903c0bc3
     home: support.rancher.com
@@ -135,4 +153,4 @@ entries:
     urls:
     - https://mattmattox.github.io/helm-chart/systems-information-0.0.1-rc2.tgz
     version: 0.0.1-rc2
-generated: "2020-09-07T17:17:05.735703585-05:00"
+generated: "2020-09-07T18:03:13.388734287-05:00"
