@@ -3,7 +3,7 @@ entries:
   drain-node-on-crash:
   - apiVersion: v1
     appVersion: v1.0-rc9
-    created: "2020-09-08T22:13:38.793426627-05:00"
+    created: "2020-09-08T22:21:27.248518995-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: 83e51ca6c93fc0a2d0f9fa648b3feea3672c4d74ef3bc99c4346fba6b840e8f6
     home: https://Support.Tools
@@ -21,7 +21,7 @@ entries:
     version: v1.0-rc9
   - apiVersion: v1
     appVersion: v1.0-rc8
-    created: "2020-09-08T22:13:38.792116707-05:00"
+    created: "2020-09-08T22:21:27.247645055-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: f00a9a494e58dad8b460d1ea90ee7ee56e100c471ab9e8d5b643d177777e3f7c
     home: https://Support.Tools
@@ -39,7 +39,7 @@ entries:
     version: v1.0-rc8
   - apiVersion: v1
     appVersion: v1.0-rc7
-    created: "2020-09-08T22:13:38.790674284-05:00"
+    created: "2020-09-08T22:21:27.246285015-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: 5ad54d9ed300eedf4cbe73527c48a88d3f1e3423db3bb94e154e6a788e7e7d5d
     home: https://Support.Tools
@@ -57,7 +57,7 @@ entries:
     version: v1.0-rc7
   - apiVersion: v1
     appVersion: v1.0-rc6
-    created: "2020-09-08T22:13:38.78894044-05:00"
+    created: "2020-09-08T22:21:27.245166036-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: 7257e71df4c4273128b0358f3960d0b00f7b400f11e181467ad7a85895ebd669
     home: https://Support.Tools
@@ -75,7 +75,7 @@ entries:
     version: v1.0-rc6
   - apiVersion: v1
     appVersion: v1.0-rc5
-    created: "2020-09-08T22:13:38.787897626-05:00"
+    created: "2020-09-08T22:21:27.243895135-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: d49e846437f87ccae11ecb95dceccf3346c31da9d60de610b2e12f90e0d9227a
     home: https://Support.Tools
@@ -92,8 +92,26 @@ entries:
     - https://mattmattox.github.io/helm-chart/drain-node-on-crash-v1.0-rc5.tgz
     version: v1.0-rc5
   - apiVersion: v1
+    appVersion: v1.0-rc26
+    created: "2020-09-08T22:21:27.242820863-05:00"
+    description: A simple little for fixing kubernetes issues.
+    digest: 4d41efbab60cd408807954b57f23df7f9264df15542297aee8ecf2288eeece32
+    home: https://Support.Tools
+    icon: https://raw.githubusercontent.com/mattmattox/drain-node-on-crash/v1.0/assets/drain-node.svg
+    keywords:
+    - drain-node-on-crash
+    maintainers:
+    - email: mmattox@support.tools
+      name: Matthew Mattox
+    name: drain-node-on-crash
+    sources:
+    - https://github.com/mattmattox/drain-node-on-crash
+    urls:
+    - https://mattmattox.github.io/helm-chart/drain-node-on-crash-v1.0-rc26.tgz
+    version: v1.0-rc26
+  - apiVersion: v1
     appVersion: v1.0-rc25
-    created: "2020-09-08T22:13:38.786738349-05:00"
+    created: "2020-09-08T22:21:27.241528271-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: 821a94439856013b63e7e75bf3b308e40d4789707412486f04c03f7b114ba13f
     home: https://Support.Tools
@@ -111,7 +129,7 @@ entries:
     version: v1.0-rc25
   - apiVersion: v1
     appVersion: v1.0-rc24
-    created: "2020-09-08T22:13:38.785929757-05:00"
+    created: "2020-09-08T22:21:27.240394278-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: 31606e36809e61cb1aebacfcc0fff9c0eeee955e293b262f337b3c41d1a3e01a
     home: https://Support.Tools
@@ -129,7 +147,7 @@ entries:
     version: v1.0-rc24
   - apiVersion: v1
     appVersion: v1.0-rc23
-    created: "2020-09-08T22:13:38.785076862-05:00"
+    created: "2020-09-08T22:21:27.239450675-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: b05aae7ddfd687802ee1db9d1a69d332188587648ee758833314be9b8eedf4f2
     home: https://Support.Tools
@@ -147,7 +165,7 @@ entries:
     version: v1.0-rc23
   - apiVersion: v1
     appVersion: v1.0-rc22
-    created: "2020-09-08T22:13:38.784140029-05:00"
+    created: "2020-09-08T22:21:27.238521426-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: 16802af1ed5254791d6d968149761fd31432708575ca0af9e2a033f05af530fb
     home: https://Support.Tools
@@ -165,7 +183,7 @@ entries:
     version: v1.0-rc22
   - apiVersion: v1
     appVersion: v1.0-rc21
-    created: "2020-09-08T22:13:38.783205561-05:00"
+    created: "2020-09-08T22:21:27.237376811-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: 70b2876efa066d08b79bc0fbca5fa44175d4ea615040d0680e155cda8962fb65
     home: https://Support.Tools
@@ -183,7 +201,7 @@ entries:
     version: v1.0-rc21
   - apiVersion: v1
     appVersion: v1.0-rc19
-    created: "2020-09-08T22:13:38.782162026-05:00"
+    created: "2020-09-08T22:21:27.236065892-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: d4209d8c03f62d1783c83569e0de6a3d54adfd6e1d76f5621a395a997a373e06
     home: https://Support.Tools
@@ -201,7 +219,7 @@ entries:
     version: v1.0-rc19
   - apiVersion: v1
     appVersion: v1.0-rc18
-    created: "2020-09-08T22:13:38.780912284-05:00"
+    created: "2020-09-08T22:21:27.234850092-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: 1b0482dbc5acd6c28de4f98659e055c44b5917a7ca17874676e7ff3770d530db
     home: https://Support.Tools
@@ -219,7 +237,7 @@ entries:
     version: v1.0-rc18
   - apiVersion: v1
     appVersion: v1.0-rc17
-    created: "2020-09-08T22:13:38.778576779-05:00"
+    created: "2020-09-08T22:21:27.233562729-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: a173e0654028cbb500dcea6e1f05af06f35b595d1ff5471f7d4910417e0bef0b
     home: https://Support.Tools
@@ -237,7 +255,7 @@ entries:
     version: v1.0-rc17
   - apiVersion: v1
     appVersion: v1.0-rc16
-    created: "2020-09-08T22:13:38.776843414-05:00"
+    created: "2020-09-08T22:21:27.232323757-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: 1250d1820577be4a0b0d767e9c5b574c43acca2fbc0c9a88fa5c7bfb52c7847b
     home: https://Support.Tools
@@ -255,7 +273,7 @@ entries:
     version: v1.0-rc16
   - apiVersion: v1
     appVersion: v1.0-rc15
-    created: "2020-09-08T22:13:38.775638517-05:00"
+    created: "2020-09-08T22:21:27.22794156-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: bf252222ae191efbd8bb483bb6d23bc01050d9f6ac26a54cf001cb1d21653f66
     home: https://Support.Tools
@@ -273,7 +291,7 @@ entries:
     version: v1.0-rc15
   - apiVersion: v1
     appVersion: v1.0-rc14
-    created: "2020-09-08T22:13:38.774199341-05:00"
+    created: "2020-09-08T22:21:27.22387837-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: 75a4df64316d09529eb4929fa50db32954812efe636adcbe117084b536cb2670
     home: https://Support.Tools
@@ -291,7 +309,7 @@ entries:
     version: v1.0-rc14
   - apiVersion: v1
     appVersion: v1.0-rc13
-    created: "2020-09-08T22:13:38.772819604-05:00"
+    created: "2020-09-08T22:21:27.222835055-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: 791b22ad1564f120f52bcc42d34e1647cf42af238bcef098ab919c577a859aac
     home: https://Support.Tools
@@ -309,7 +327,7 @@ entries:
     version: v1.0-rc13
   - apiVersion: v1
     appVersion: v1.0-rc12
-    created: "2020-09-08T22:13:38.771278646-05:00"
+    created: "2020-09-08T22:21:27.221975372-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: a21922ed15da37d8cf743c4a3d1b62a93082331fa85f0f1c511a0cabc126b06d
     home: https://Support.Tools
@@ -327,7 +345,7 @@ entries:
     version: v1.0-rc12
   - apiVersion: v1
     appVersion: v1.0-rc11
-    created: "2020-09-08T22:13:38.769839604-05:00"
+    created: "2020-09-08T22:21:27.22098785-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: 1a0d7952590f830aa5e805e6cf38a50bd8e840f595dc349c5f4f61da41042dc8
     home: https://Support.Tools
@@ -345,7 +363,7 @@ entries:
     version: v1.0-rc11
   - apiVersion: v1
     appVersion: v1.0-rc10
-    created: "2020-09-08T22:13:38.768545193-05:00"
+    created: "2020-09-08T22:21:27.220013643-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: 1bc132d8a3b45959d805d6880af235a1caf1910d230ca30aa7e2f19ccdcc3600
     home: https://Support.Tools
@@ -363,7 +381,7 @@ entries:
     version: v1.0-rc10
   - apiVersion: v1
     appVersion: v1.0-rc1
-    created: "2020-09-08T22:13:38.76765602-05:00"
+    created: "2020-09-08T22:21:27.218675628-05:00"
     description: A simple little for fixing kubernetes issues.
     digest: 2d2326e53d3350fa83f0dc580e9b2992cb1f920610abb6f277fe0e687f948ff2
     home: https://Support.Tools
@@ -382,7 +400,7 @@ entries:
   kubebackup:
   - apiVersion: v1
     appVersion: 0.1.15
-    created: "2020-09-08T22:13:38.795193212-05:00"
+    created: "2020-09-08T22:21:27.250590793-05:00"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 55430ac55b0e767656b518f892a4e4c9e322f5db88aa066734a18ff4621d3a59
@@ -403,7 +421,7 @@ entries:
   systems-information:
   - apiVersion: v1
     appVersion: 0.0.1-rc3
-    created: "2020-09-08T22:13:38.797463783-05:00"
+    created: "2020-09-08T22:21:27.253986996-05:00"
     description: Rancher Systems Summary Report
     digest: e1b15ecbadf97a3655a01ceb7a8019e72e7883dd844657ddf78fe95b969f631a
     home: https://support.rancher.com
@@ -423,7 +441,7 @@ entries:
     version: 0.0.1-rc3
   - apiVersion: v2
     appVersion: 0.0.1-rc2
-    created: "2020-09-08T22:13:38.79623997-05:00"
+    created: "2020-09-08T22:21:27.252331818-05:00"
     description: Rancher Systems Summary Report
     digest: 1dfc0b79dfa1dcb727fdf8acad364df0be99ce5e8184c7c28ad30369903c0bc3
     home: support.rancher.com
@@ -441,4 +459,4 @@ entries:
     urls:
     - https://mattmattox.github.io/helm-chart/systems-information-0.0.1-rc2.tgz
     version: 0.0.1-rc2
-generated: "2020-09-08T22:13:38.766168938-05:00"
+generated: "2020-09-08T22:21:27.216984464-05:00"
