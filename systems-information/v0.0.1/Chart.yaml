@@ -1,0 +1,16 @@
+apiVersion: v1
+appVersion: 0.0.1-rc3
+description: Rancher Systems Summary Report
+home: https://support.rancher.com
+icon: https://rancher.com/img/brand-guidelines/assets/logos/png/color/rancher-logo-stacked-color.png
+keywords:
+- rancher
+- support
+maintainers:
+- email: Matthew.Mattox@rancher.com
+  name: mattmattox
+name: systems-information
+sources:
+- https://github.com/rancherlabs/support-tools
+type: application
+version: 0.0.1-rc3

@@ -1,0 +1,14 @@
+apiVersion: v1
+appVersion: v1.0
+description: A simple little for fixing kubernetes issues.
+home: https://Support.Tools
+icon: https://raw.githubusercontent.com/mattmattox/drain-node-on-crash/v1.0/assets/drain-node.svg
+keywords:
+- drain-node-on-crash
+maintainers:
+- email: mmattox@support.tools
+  name: Matthew Mattox
+name: drain-node-on-crash
+sources:
+- https://github.com/mattmattox/drain-node-on-crash
+version: v1.0
