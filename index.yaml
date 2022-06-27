@@ -3,7 +3,7 @@ entries:
   drain-node-on-crash:
   - apiVersion: v1
     appVersion: v1.0
-    created: "2022-06-27T08:11:24.51565576Z"
+    created: "2022-06-27T08:27:08.537340693Z"
     description: A simple little for fixing kubernetes issues.
     digest: 8129a18f20777f0cd080d58fd7c517c15af3fcfd5af7c83d3cbdae39d38a703c
     home: https://Support.Tools
@@ -21,8 +21,29 @@ entries:
     version: v1.0
   k3s-janitor:
   - apiVersion: v2
+    appVersion: "60"
+    created: "2022-06-27T08:27:08.541088037Z"
+    description: A Helm chart for Kubernetes
+    digest: c89bd4dd091ec99e87daa9d4f4d3df51e33e8b9c44b8064b2dc9c2598b35a6e9
+    home: https://github.com/SupportTools/k3s-janitor
+    icon: https://raw.githubusercontent.com/SupportTools/k3s-janitor/main/assets/logo.svg
+    keywords:
+    - kubernetes
+    - k3s
+    - maintenance
+    maintainers:
+    - email: mmattox@support.tools
+      name: mattmattox
+    name: k3s-janitor
+    sources:
+    - https://github.com/SupportTools/k3s-janitor
+    type: application
+    urls:
+    - https://charts.support.tools/k3s-janitor-v1.3.tgz
+    version: v1.3
+  - apiVersion: v2
     appVersion: "57"
-    created: "2022-06-27T08:11:24.518506313Z"
+    created: "2022-06-27T08:27:08.540162748Z"
     description: A Helm chart for Kubernetes
     digest: 4d7d3e4cd244b7488073bb1a26f9e6e69fc2525cbdaddc101094b8384e447b1f
     home: https://github.com/SupportTools/k3s-janitor
@@ -43,7 +64,7 @@ entries:
     version: v1.2
   - apiVersion: v2
     appVersion: "34"
-    created: "2022-06-27T08:11:24.517501146Z"
+    created: "2022-06-27T08:27:08.539222097Z"
     description: A Helm chart for Kubernetes
     digest: 5fc17106578ff4f85c6c16a0c3a2ae578df609b321c5b7b94df17be672f2b51e
     home: https://github.com/SupportTools/k3s-janitor
@@ -64,7 +85,7 @@ entries:
     version: v1.1
   - apiVersion: v2
     appVersion: "23"
-    created: "2022-06-27T08:11:24.516591693Z"
+    created: "2022-06-27T08:27:08.538301625Z"
     description: A Helm chart for Kubernetes
     digest: 6bb12b6cfb815f7bc57de679e2a130d3edaf620cc3f4985aaa181ed92366bd03
     home: https://github.com/SupportTools/k3s-janitor
@@ -86,7 +107,7 @@ entries:
   kubebackup:
   - apiVersion: v1
     appVersion: "71"
-    created: "2022-06-27T08:11:24.520599613Z"
+    created: "2022-06-27T08:27:08.543494554Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 8615657e95e327f12440bff3d8269a0a54535c1d433fc6a8a76d9075bdcbc382
@@ -106,7 +127,7 @@ entries:
     version: v1.1.0
   - apiVersion: v1
     appVersion: "57"
-    created: "2022-06-27T08:11:24.519554429Z"
+    created: "2022-06-27T08:27:08.542293776Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 4aa4801ab5365a5cb9c0b65d44216b46d87cb4feec9a37ce7d336643be2f064c
@@ -127,7 +148,7 @@ entries:
   systems-information:
   - apiVersion: v1
     appVersion: 0.0.1-rc3
-    created: "2022-06-27T08:11:24.521486237Z"
+    created: "2022-06-27T08:27:08.544553255Z"
     description: Rancher Systems Summary Report
     digest: e1b15ecbadf97a3655a01ceb7a8019e72e7883dd844657ddf78fe95b969f631a
     home: https://support.rancher.com
@@ -145,4 +166,4 @@ entries:
     urls:
     - https://charts.support.tools/systems-information-0.0.1.tgz
     version: 0.0.1-rc3
-generated: "2022-06-27T08:11:24.514471166Z"
+generated: "2022-06-27T08:27:08.536214393Z"
