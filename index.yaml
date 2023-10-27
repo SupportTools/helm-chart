@@ -3,7 +3,7 @@ entries:
   do-operator:
   - apiVersion: v2
     appVersion: v0.1.6
-    created: "2023-04-06T09:46:16.279346974Z"
+    created: "2023-10-27T23:52:01.688466426Z"
     description: A Helm chart for deploying the DigitalOcean Operator
     digest: fcae0b81b1a75ed973491d2eb5f5f56079dfd59134cabc4bf9efd0d1cf2dc434
     home: https://github.com/digitalocean/do-operator
@@ -19,11 +19,11 @@ entries:
     sources:
     - https://github.com/digitalocean/do-operator
     urls:
-    - https://charts.support.tools/do-operator-0.1.7.tgz
+    - do-operator-0.1.7.tgz
     version: 0.1.7
   - apiVersion: v2
     appVersion: v0.1.6
-    created: "2023-04-06T09:46:16.278157763Z"
+    created: "2023-10-27T23:52:01.687907919Z"
     description: A Helm chart for deploying the DigitalOcean Operator
     digest: 2bb842f6c3e4ff13d94fcf4cd1ffeab8f51369ba199ea6ef0f31f6b0240b0a45
     home: https://github.com/digitalocean/do-operator
@@ -39,11 +39,11 @@ entries:
     sources:
     - https://github.com/digitalocean/do-operator
     urls:
-    - https://charts.support.tools/do-operator-0.1.6.tgz
+    - do-operator-0.1.6.tgz
     version: 0.1.6
   - apiVersion: v2
     appVersion: v0.1.6
-    created: "2023-04-06T09:46:16.277075652Z"
+    created: "2023-10-27T23:52:01.68726001Z"
     description: A Helm chart for deploying the DigitalOcean Operator
     digest: e26c9e76c4c31f3462adb171829e1e748b4b8c91c294cd06f5590ad933c1efc2
     home: https://github.com/digitalocean/do-operator
@@ -59,12 +59,12 @@ entries:
     sources:
     - https://github.com/digitalocean/do-operator
     urls:
-    - https://charts.support.tools/do-operator-0.1.5.tgz
+    - do-operator-0.1.5.tgz
     version: 0.1.5
   drain-node-on-crash:
   - apiVersion: v1
     appVersion: v1.0
-    created: "2023-04-06T09:46:16.279755478Z"
+    created: "2023-10-27T23:52:01.688997733Z"
     description: A simple little for fixing kubernetes issues.
     digest: 8129a18f20777f0cd080d58fd7c517c15af3fcfd5af7c83d3cbdae39d38a703c
     home: https://Support.Tools
@@ -78,12 +78,12 @@ entries:
     sources:
     - https://github.com/mattmattox/drain-node-on-crash
     urls:
-    - https://charts.support.tools/drain-node-on-crash-v1.0.tgz
+    - drain-node-on-crash-v1.0.tgz
     version: v1.0
   k3s-janitor:
   - apiVersion: v2
     appVersion: "60"
-    created: "2023-04-06T09:46:16.281440095Z"
+    created: "2023-10-27T23:52:01.691861573Z"
     description: A Helm chart for Kubernetes
     digest: c89bd4dd091ec99e87daa9d4f4d3df51e33e8b9c44b8064b2dc9c2598b35a6e9
     home: https://github.com/SupportTools/k3s-janitor
@@ -100,11 +100,11 @@ entries:
     - https://github.com/SupportTools/k3s-janitor
     type: application
     urls:
-    - https://charts.support.tools/k3s-janitor-v1.3.tgz
+    - k3s-janitor-v1.3.tgz
     version: v1.3
   - apiVersion: v2
     appVersion: "57"
-    created: "2023-04-06T09:46:16.281034291Z"
+    created: "2023-10-27T23:52:01.691232664Z"
     description: A Helm chart for Kubernetes
     digest: 4d7d3e4cd244b7488073bb1a26f9e6e69fc2525cbdaddc101094b8384e447b1f
     home: https://github.com/SupportTools/k3s-janitor
@@ -121,11 +121,11 @@ entries:
     - https://github.com/SupportTools/k3s-janitor
     type: application
     urls:
-    - https://charts.support.tools/k3s-janitor-v1.2.tgz
+    - k3s-janitor-v1.2.tgz
     version: v1.2
   - apiVersion: v2
     appVersion: "34"
-    created: "2023-04-06T09:46:16.280621187Z"
+    created: "2023-10-27T23:52:01.690681356Z"
     description: A Helm chart for Kubernetes
     digest: 5fc17106578ff4f85c6c16a0c3a2ae578df609b321c5b7b94df17be672f2b51e
     home: https://github.com/SupportTools/k3s-janitor
@@ -142,11 +142,11 @@ entries:
     - https://github.com/SupportTools/k3s-janitor
     type: application
     urls:
-    - https://charts.support.tools/k3s-janitor-v1.1.tgz
+    - k3s-janitor-v1.1.tgz
     version: v1.1
   - apiVersion: v2
     appVersion: "23"
-    created: "2023-04-06T09:46:16.280198583Z"
+    created: "2023-10-27T23:52:01.690085248Z"
     description: A Helm chart for Kubernetes
     digest: 6bb12b6cfb815f7bc57de679e2a130d3edaf620cc3f4985aaa181ed92366bd03
     home: https://github.com/SupportTools/k3s-janitor
@@ -163,12 +163,12 @@ entries:
     - https://github.com/SupportTools/k3s-janitor
     type: application
     urls:
-    - https://charts.support.tools/k3s-janitor-v1.0.tgz
+    - k3s-janitor-v1.0.tgz
     version: v1.0
   kubebackup:
   - apiVersion: v1
     appVersion: "84"
-    created: "2023-04-06T09:46:16.283912519Z"
+    created: "2023-10-27T23:52:01.694545009Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 12195aad38d5aa03efbecf55af111447df1247233feff7d5d6e02508cca95e37
@@ -184,11 +184,11 @@ entries:
     sources:
     - https://github.com/mattmattox/kubebackup
     urls:
-    - https://charts.support.tools/kubebackup-v1.2.0.tgz
+    - kubebackup-v1.2.0.tgz
     version: v1.2.0
   - apiVersion: v1
     appVersion: "71"
-    created: "2023-04-06T09:46:16.283486415Z"
+    created: "2023-10-27T23:52:01.694060403Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 8615657e95e327f12440bff3d8269a0a54535c1d433fc6a8a76d9075bdcbc382
@@ -204,11 +204,11 @@ entries:
     sources:
     - https://github.com/mattmattox/kubebackup
     urls:
-    - https://charts.support.tools/kubebackup-v1.1.0.tgz
+    - kubebackup-v1.1.0.tgz
     version: v1.1.0
   - apiVersion: v1
     appVersion: "57"
-    created: "2023-04-06T09:46:16.283040211Z"
+    created: "2023-10-27T23:52:01.693585096Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 4aa4801ab5365a5cb9c0b65d44216b46d87cb4feec9a37ce7d336643be2f064c
@@ -224,11 +224,11 @@ entries:
     sources:
     - https://github.com/mattmattox/kubebackup
     urls:
-    - https://charts.support.tools/kubebackup-v1.0.0.tgz
+    - kubebackup-v1.0.0.tgz
     version: v1.0.0
   - apiVersion: v1
     appVersion: 0.1.17
-    created: "2023-04-06T09:46:16.282581606Z"
+    created: "2023-10-27T23:52:01.69310569Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: cd256f158fdf91dc31af8cab0e0bc430953dcbf2d07fb43cab53984517b47ad0
@@ -244,11 +244,11 @@ entries:
     sources:
     - https://github.com/mattmattox/kubebackup
     urls:
-    - https://charts.support.tools/kubebackup-0.1.17.tgz
+    - kubebackup-0.1.17.tgz
     version: 0.1.17
   - apiVersion: v1
     appVersion: 0.1.16
-    created: "2023-04-06T09:46:16.2820085Z"
+    created: "2023-10-27T23:52:01.692506581Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 68038a9d722602ca0464ee93dcca1f6304e3e8a1f994c5568c130a81a9f4a2b7
@@ -264,12 +264,23 @@ entries:
     sources:
     - https://github.com/mattmattox/kubebackup
     urls:
-    - https://charts.support.tools/kubebackup-0.1.16.tgz
+    - kubebackup-0.1.16.tgz
     version: 0.1.16
+  powerdns-admin-proxy:
+  - apiVersion: v2
+    appVersion: "4"
+    created: "2023-10-27T23:52:01.694990015Z"
+    description: A Helm chart for Kubernetes
+    digest: ad01796a6db4bfba74b8d2540196249549ad29841d7228763608e13dd4e1dc31
+    name: powerdns-admin-proxy
+    type: application
+    urls:
+    - powerdns-admin-proxy-0.1.0.tgz
+    version: 0.1.0
   systems-information:
   - apiVersion: v1
     appVersion: 0.0.1-rc3
-    created: "2023-04-06T09:46:16.284322623Z"
+    created: "2023-10-27T23:52:01.695537623Z"
     description: Rancher Systems Summary Report
     digest: e1b15ecbadf97a3655a01ceb7a8019e72e7883dd844657ddf78fe95b969f631a
     home: https://support.rancher.com
@@ -285,12 +296,12 @@ entries:
     - https://github.com/rancherlabs/support-tools
     type: application
     urls:
-    - https://charts.support.tools/systems-information-0.0.1.tgz
+    - systems-information-0.0.1.tgz
     version: 0.0.1-rc3
   uptime-kuma:
   - apiVersion: v2
     appVersion: "85"
-    created: "2023-04-06T09:46:16.29005368Z"
+    created: "2023-10-27T23:52:01.700837495Z"
     description: A Helm chart Uptime Kuma
     digest: 9e5cdcb693b95c47e727c3074945aac43952ddcde516b7f7144a0c0c00c8d6ae
     home: https://github.com/SupportTools/uptime-kuma
@@ -306,11 +317,11 @@ entries:
     - https://github.com/SupportTools/uptime-kuma
     type: application
     urls:
-    - https://charts.support.tools/uptime-kuma-v1.7.tgz
+    - uptime-kuma-v1.7.tgz
     version: v1.7
   - apiVersion: v2
     appVersion: "83"
-    created: "2023-04-06T09:46:16.289460274Z"
+    created: "2023-10-27T23:52:01.699783681Z"
     description: A Helm chart Uptime Kuma
     digest: 8dfa74ff3c43a448134ea398d32547880123e613d02c2d39dc8f48ab75e6d25d
     home: https://github.com/SupportTools/uptime-kuma
@@ -326,11 +337,11 @@ entries:
     - https://github.com/SupportTools/uptime-kuma
     type: application
     urls:
-    - https://charts.support.tools/uptime-kuma-v1.6.tgz
+    - uptime-kuma-v1.6.tgz
     version: v1.6
   - apiVersion: v2
     appVersion: "81"
-    created: "2023-04-06T09:46:16.288836068Z"
+    created: "2023-10-27T23:52:01.699146472Z"
     description: A Helm chart Uptime Kuma
     digest: 671004bc4cd6833f711c88e74d13580acc6f2716d35bef24164f5ce0b41c5c8d
     home: https://github.com/SupportTools/uptime-kuma
@@ -346,11 +357,11 @@ entries:
     - https://github.com/SupportTools/uptime-kuma
     type: application
     urls:
-    - https://charts.support.tools/uptime-kuma-v1.5.tgz
+    - uptime-kuma-v1.5.tgz
     version: v1.5
   - apiVersion: v2
     appVersion: "79"
-    created: "2023-04-06T09:46:16.287961559Z"
+    created: "2023-10-27T23:52:01.698520364Z"
     description: A Helm chart Uptime Kuma
     digest: e85a5916104a40c7a30651c4c665198a08d728c96a7c892caf1f4d07864b6dc0
     home: https://github.com/SupportTools/uptime-kuma
@@ -366,11 +377,11 @@ entries:
     - https://github.com/SupportTools/uptime-kuma
     type: application
     urls:
-    - https://charts.support.tools/uptime-kuma-v1.4.tgz
+    - uptime-kuma-v1.4.tgz
     version: v1.4
   - apiVersion: v2
     appVersion: "77"
-    created: "2023-04-06T09:46:16.286490545Z"
+    created: "2023-10-27T23:52:01.697887555Z"
     description: A Helm chart Uptime Kuma
     digest: 1a7a1097ac1228e7416493df84a19b0a9842a7add306b691cf97274477c6d2a2
     home: https://github.com/SupportTools/uptime-kuma
@@ -386,11 +397,11 @@ entries:
     - https://github.com/SupportTools/uptime-kuma
     type: application
     urls:
-    - https://charts.support.tools/uptime-kuma-v1.3.tgz
+    - uptime-kuma-v1.3.tgz
     version: v1.3
   - apiVersion: v2
     appVersion: "75"
-    created: "2023-04-06T09:46:16.285901439Z"
+    created: "2023-10-27T23:52:01.697214746Z"
     description: A Helm chart Uptime Kuma
     digest: 8c32f57365adea13b54c73a845734b6d56aff22e05604038e63dd6b67e25d27c
     home: https://github.com/SupportTools/uptime-kuma
@@ -406,11 +417,11 @@ entries:
     - https://github.com/SupportTools/uptime-kuma
     type: application
     urls:
-    - https://charts.support.tools/uptime-kuma-v1.2.tgz
+    - uptime-kuma-v1.2.tgz
     version: v1.2
   - apiVersion: v2
     appVersion: "65"
-    created: "2023-04-06T09:46:16.285310833Z"
+    created: "2023-10-27T23:52:01.696554837Z"
     description: A Helm chart Uptime Kuma
     digest: b86168ffa3e15aef3f51e897adab106985b9b3fdf68bbe57d21b86f317bed87b
     home: https://github.com/SupportTools/uptime-kuma
@@ -426,11 +437,11 @@ entries:
     - https://github.com/SupportTools/uptime-kuma
     type: application
     urls:
-    - https://charts.support.tools/uptime-kuma-v1.1.tgz
+    - uptime-kuma-v1.1.tgz
     version: v1.1
   - apiVersion: v2
     appVersion: "61"
-    created: "2023-04-06T09:46:16.284683227Z"
+    created: "2023-10-27T23:52:01.695920428Z"
     description: A Helm chart Uptime Kuma
     digest: 4a6769b9638c2b201de1b03080b0ae2674ec771cbc464df6d7f49becf4722c01
     home: https://github.com/SupportTools/uptime-kuma
@@ -447,6 +458,6 @@ entries:
     - https://github.com/SupportTools/uptime-kuma
     type: application
     urls:
-    - https://charts.support.tools/uptime-kuma-v1.0.tgz
+    - uptime-kuma-v1.0.tgz
     version: v1.0
-generated: "2023-04-06T09:46:16.276346845Z"
+generated: "2023-10-27T23:52:01.6865715Z"
