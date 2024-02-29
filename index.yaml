@@ -3,7 +3,7 @@ entries:
   do-operator:
   - apiVersion: v2
     appVersion: v0.1.6
-    created: "2024-02-29T07:17:57.243967342Z"
+    created: "2024-02-29T07:22:02.599904389Z"
     description: A Helm chart for deploying the DigitalOcean Operator
     digest: fcae0b81b1a75ed973491d2eb5f5f56079dfd59134cabc4bf9efd0d1cf2dc434
     home: https://github.com/digitalocean/do-operator
@@ -23,7 +23,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: v0.1.6
-    created: "2024-02-29T07:17:57.243529676Z"
+    created: "2024-02-29T07:22:02.599492951Z"
     description: A Helm chart for deploying the DigitalOcean Operator
     digest: 2bb842f6c3e4ff13d94fcf4cd1ffeab8f51369ba199ea6ef0f31f6b0240b0a45
     home: https://github.com/digitalocean/do-operator
@@ -43,7 +43,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: v0.1.6
-    created: "2024-02-29T07:17:57.243035905Z"
+    created: "2024-02-29T07:22:02.599029706Z"
     description: A Helm chart for deploying the DigitalOcean Operator
     digest: e26c9e76c4c31f3462adb171829e1e748b4b8c91c294cd06f5590ad933c1efc2
     home: https://github.com/digitalocean/do-operator
@@ -64,7 +64,7 @@ entries:
   drain-node-on-crash:
   - apiVersion: v1
     appVersion: v1.0
-    created: "2024-02-29T07:17:57.244274515Z"
+    created: "2024-02-29T07:22:02.600160597Z"
     description: A simple little for fixing kubernetes issues.
     digest: 8129a18f20777f0cd080d58fd7c517c15af3fcfd5af7c83d3cbdae39d38a703c
     home: https://Support.Tools
@@ -82,8 +82,28 @@ entries:
     version: v1.0
   go-sql-proxy:
   - apiVersion: v1
+    appVersion: 0.2.5
+    created: "2024-02-29T07:22:02.601348235Z"
+    description: go-sql-proxy is a tool for backing up the configuration files in
+      a Kubernetes cluster and uploading them to a S3 bucket.
+    digest: b6d67b6e5939cd259e2e7c2d02c27484f6d605a5762ade1d51197205fb86ac3e
+    home: https://github.com/supporttools/go-sql-proxy
+    icon: https://cdn.support.tools/go-sql-proxy/go-sql-proxy.png
+    keywords:
+    - kubernetes
+    - backup
+    maintainers:
+    - email: mmattox@support.tools
+      name: mattmattox
+    name: go-sql-proxy
+    sources:
+    - https://github.com/supporttools/go-sql-proxy
+    urls:
+    - https://charts.support.tools/go-sql-proxy-0.2.5.tgz
+    version: 0.2.5
+  - apiVersion: v1
     appVersion: 0.2.4
-    created: "2024-02-29T07:17:57.245262497Z"
+    created: "2024-02-29T07:22:02.600973636Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: 40c7288202536cc00e1e246dc61d65006f5b8a6632fff17d08d1eb054d7b1612
@@ -103,7 +123,7 @@ entries:
     version: 0.2.4
   - apiVersion: v1
     appVersion: 0.2.3
-    created: "2024-02-29T07:17:57.244764538Z"
+    created: "2024-02-29T07:22:02.600600769Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: f5187ae7ad00a29d629dfcef921dde16c4b740823978d754933db486aff7e958
@@ -124,7 +144,7 @@ entries:
   k3s-janitor:
   - apiVersion: v2
     appVersion: "60"
-    created: "2024-02-29T07:17:57.246827295Z"
+    created: "2024-02-29T07:22:02.602592128Z"
     description: A Helm chart for Kubernetes
     digest: c89bd4dd091ec99e87daa9d4f4d3df51e33e8b9c44b8064b2dc9c2598b35a6e9
     home: https://github.com/SupportTools/k3s-janitor
@@ -145,7 +165,7 @@ entries:
     version: v1.3
   - apiVersion: v2
     appVersion: "57"
-    created: "2024-02-29T07:17:57.246435494Z"
+    created: "2024-02-29T07:22:02.602259767Z"
     description: A Helm chart for Kubernetes
     digest: 4d7d3e4cd244b7488073bb1a26f9e6e69fc2525cbdaddc101094b8384e447b1f
     home: https://github.com/SupportTools/k3s-janitor
@@ -166,7 +186,7 @@ entries:
     version: v1.2
   - apiVersion: v2
     appVersion: "34"
-    created: "2024-02-29T07:17:57.246023576Z"
+    created: "2024-02-29T07:22:02.601959176Z"
     description: A Helm chart for Kubernetes
     digest: 5fc17106578ff4f85c6c16a0c3a2ae578df609b321c5b7b94df17be672f2b51e
     home: https://github.com/SupportTools/k3s-janitor
@@ -187,7 +207,7 @@ entries:
     version: v1.1
   - apiVersion: v2
     appVersion: "23"
-    created: "2024-02-29T07:17:57.245651472Z"
+    created: "2024-02-29T07:22:02.601665197Z"
     description: A Helm chart for Kubernetes
     digest: 6bb12b6cfb815f7bc57de679e2a130d3edaf620cc3f4985aaa181ed92366bd03
     home: https://github.com/SupportTools/k3s-janitor
@@ -209,7 +229,7 @@ entries:
   kubebackup:
   - apiVersion: v1
     appVersion: "84"
-    created: "2024-02-29T07:17:57.249661485Z"
+    created: "2024-02-29T07:22:02.605208857Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 12195aad38d5aa03efbecf55af111447df1247233feff7d5d6e02508cca95e37
@@ -229,7 +249,7 @@ entries:
     version: v1.2.0
   - apiVersion: v1
     appVersion: "71"
-    created: "2024-02-29T07:17:57.249103474Z"
+    created: "2024-02-29T07:22:02.604870525Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 8615657e95e327f12440bff3d8269a0a54535c1d433fc6a8a76d9075bdcbc382
@@ -249,7 +269,7 @@ entries:
     version: v1.1.0
   - apiVersion: v1
     appVersion: "57"
-    created: "2024-02-29T07:17:57.248405317Z"
+    created: "2024-02-29T07:22:02.604528978Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 4aa4801ab5365a5cb9c0b65d44216b46d87cb4feec9a37ce7d336643be2f064c
@@ -269,7 +289,7 @@ entries:
     version: v1.0.0
   - apiVersion: v1
     appVersion: 0.1.17
-    created: "2024-02-29T07:17:57.247953335Z"
+    created: "2024-02-29T07:22:02.604140973Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: cd256f158fdf91dc31af8cab0e0bc430953dcbf2d07fb43cab53984517b47ad0
@@ -289,7 +309,7 @@ entries:
     version: 0.1.17
   - apiVersion: v1
     appVersion: 0.1.16
-    created: "2024-02-29T07:17:57.24740395Z"
+    created: "2024-02-29T07:22:02.603006492Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 68038a9d722602ca0464ee93dcca1f6304e3e8a1f994c5568c130a81a9f4a2b7
@@ -310,7 +330,7 @@ entries:
   powerdns-admin-proxy:
   - apiVersion: v2
     appVersion: "5"
-    created: "2024-02-29T07:17:57.250965324Z"
+    created: "2024-02-29T07:22:02.605840006Z"
     description: A Helm chart for Kubernetes
     digest: 6e9e3940e0ffb7122d18bebb248177856dd3e3bb062e61cd08068431ea44c634
     name: powerdns-admin-proxy
@@ -320,7 +340,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: "4"
-    created: "2024-02-29T07:17:57.250526615Z"
+    created: "2024-02-29T07:22:02.605530187Z"
     description: A Helm chart for Kubernetes
     digest: ad01796a6db4bfba74b8d2540196249549ad29841d7228763608e13dd4e1dc31
     name: powerdns-admin-proxy
@@ -331,7 +351,7 @@ entries:
   systems-information:
   - apiVersion: v1
     appVersion: 0.0.1-rc3
-    created: "2024-02-29T07:17:57.251453113Z"
+    created: "2024-02-29T07:22:02.606166766Z"
     description: Rancher Systems Summary Report
     digest: e1b15ecbadf97a3655a01ceb7a8019e72e7883dd844657ddf78fe95b969f631a
     home: https://support.rancher.com
@@ -352,7 +372,7 @@ entries:
   uptime-kuma:
   - apiVersion: v2
     appVersion: "85"
-    created: "2024-02-29T07:17:57.255378181Z"
+    created: "2024-02-29T07:22:02.610500118Z"
     description: A Helm chart Uptime Kuma
     digest: 9e5cdcb693b95c47e727c3074945aac43952ddcde516b7f7144a0c0c00c8d6ae
     home: https://github.com/SupportTools/uptime-kuma
@@ -372,7 +392,7 @@ entries:
     version: v1.7
   - apiVersion: v2
     appVersion: "83"
-    created: "2024-02-29T07:17:57.254827094Z"
+    created: "2024-02-29T07:22:02.609273678Z"
     description: A Helm chart Uptime Kuma
     digest: 8dfa74ff3c43a448134ea398d32547880123e613d02c2d39dc8f48ab75e6d25d
     home: https://github.com/SupportTools/uptime-kuma
@@ -392,7 +412,7 @@ entries:
     version: v1.6
   - apiVersion: v2
     appVersion: "81"
-    created: "2024-02-29T07:17:57.254312364Z"
+    created: "2024-02-29T07:22:02.608837473Z"
     description: A Helm chart Uptime Kuma
     digest: 671004bc4cd6833f711c88e74d13580acc6f2716d35bef24164f5ce0b41c5c8d
     home: https://github.com/SupportTools/uptime-kuma
@@ -412,7 +432,7 @@ entries:
     version: v1.5
   - apiVersion: v2
     appVersion: "79"
-    created: "2024-02-29T07:17:57.25371503Z"
+    created: "2024-02-29T07:22:02.608390589Z"
     description: A Helm chart Uptime Kuma
     digest: e85a5916104a40c7a30651c4c665198a08d728c96a7c892caf1f4d07864b6dc0
     home: https://github.com/SupportTools/uptime-kuma
@@ -432,7 +452,7 @@ entries:
     version: v1.4
   - apiVersion: v2
     appVersion: "77"
-    created: "2024-02-29T07:17:57.253254331Z"
+    created: "2024-02-29T07:22:02.607939276Z"
     description: A Helm chart Uptime Kuma
     digest: 1a7a1097ac1228e7416493df84a19b0a9842a7add306b691cf97274477c6d2a2
     home: https://github.com/SupportTools/uptime-kuma
@@ -452,7 +472,7 @@ entries:
     version: v1.3
   - apiVersion: v2
     appVersion: "75"
-    created: "2024-02-29T07:17:57.252812898Z"
+    created: "2024-02-29T07:22:02.607411891Z"
     description: A Helm chart Uptime Kuma
     digest: 8c32f57365adea13b54c73a845734b6d56aff22e05604038e63dd6b67e25d27c
     home: https://github.com/SupportTools/uptime-kuma
@@ -472,7 +492,7 @@ entries:
     version: v1.2
   - apiVersion: v2
     appVersion: "65"
-    created: "2024-02-29T07:17:57.252330749Z"
+    created: "2024-02-29T07:22:02.606962001Z"
     description: A Helm chart Uptime Kuma
     digest: b86168ffa3e15aef3f51e897adab106985b9b3fdf68bbe57d21b86f317bed87b
     home: https://github.com/SupportTools/uptime-kuma
@@ -492,7 +512,7 @@ entries:
     version: v1.1
   - apiVersion: v2
     appVersion: "61"
-    created: "2024-02-29T07:17:57.251830176Z"
+    created: "2024-02-29T07:22:02.606490971Z"
     description: A Helm chart Uptime Kuma
     digest: 4a6769b9638c2b201de1b03080b0ae2674ec771cbc464df6d7f49becf4722c01
     home: https://github.com/SupportTools/uptime-kuma
@@ -511,4 +531,4 @@ entries:
     urls:
     - https://charts.support.tools/uptime-kuma-v1.0.tgz
     version: v1.0
-generated: "2024-02-29T07:17:57.242281894Z"
+generated: "2024-02-29T07:22:02.598508041Z"
