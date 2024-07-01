@@ -3,7 +3,7 @@ entries:
   do-database-metrics-adapter:
   - apiVersion: v2
     appVersion: 1.0.12
-    created: "2024-07-01T06:23:07.268265648Z"
+    created: "2024-07-01T06:24:54.378781114Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: bd0691e792d09e6a33e7daddaa4ecae90dcb3292575112d5afd25b2c837edd00
@@ -25,7 +25,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: 1.0.11
-    created: "2024-07-01T06:23:07.267903209Z"
+    created: "2024-07-01T06:24:54.378447248Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: d69e7d3a8432b8ab4873588dd26586fc0a5a0b1a2fd3ee487149420e82891e9b
@@ -47,7 +47,7 @@ entries:
     version: 1.0.11
   - apiVersion: v2
     appVersion: 1.0.10
-    created: "2024-07-01T06:23:07.267138626Z"
+    created: "2024-07-01T06:24:54.378115787Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: 7907f5a90f9f5f48a146f7e4db7aaa34c6985b8a5a007d18bb09b9eaac933f92
@@ -69,7 +69,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: 1.0.9
-    created: "2024-07-01T06:23:07.270285825Z"
+    created: "2024-07-01T06:24:54.380701995Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: 5ebe1626ed127105b7eb5baa4e381dcdd7525d6800dd49fbfa6207a53ad41fb9
@@ -91,7 +91,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: 1.0.8
-    created: "2024-07-01T06:23:07.269955025Z"
+    created: "2024-07-01T06:24:54.380398606Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: ee5d3e69be56e45eb29a429a9b01c3f9d1c30c9aa6c94af02be8ca5b85a4a0ce
@@ -113,7 +113,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: 1.0.7
-    created: "2024-07-01T06:23:07.269625728Z"
+    created: "2024-07-01T06:24:54.380090789Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: 730e78f8881a21f2d8c351692ff9586e7f02af354805b0cedc8a57c717d423f0
@@ -135,7 +135,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.0.6
-    created: "2024-07-01T06:23:07.269284097Z"
+    created: "2024-07-01T06:24:54.379768245Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: cc462b3bddcabade27391e115767516bfcc672c14be8745ff2cb237cfe3475c8
@@ -157,7 +157,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2024-07-01T06:23:07.268924824Z"
+    created: "2024-07-01T06:24:54.379412728Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: 186de30d3076cbb464119bfc9d2efe0ed58e0b01cf74115a458110c289fb2b5a
@@ -179,7 +179,7 @@ entries:
     version: 1.0.5
   - apiVersion: v1
     appVersion: 1.0.2
-    created: "2024-07-01T06:23:07.268596038Z"
+    created: "2024-07-01T06:24:54.379094582Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: 2a949419cfbbda2dc853525219c1f2f3726b2d7114287274943c5b35777babde
@@ -199,7 +199,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: "2024-07-01T06:23:07.266535606Z"
+    created: "2024-07-01T06:24:54.377747406Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: cb9eaf5f77bbede421ba0821e381a5c6cc1ab5155238d769fd06fbab4ba11499
@@ -220,7 +220,7 @@ entries:
   do-operator:
   - apiVersion: v2
     appVersion: v0.1.6
-    created: "2024-07-01T06:23:07.271296749Z"
+    created: "2024-07-01T06:24:54.381675269Z"
     description: A Helm chart for deploying the DigitalOcean Operator
     digest: fcae0b81b1a75ed973491d2eb5f5f56079dfd59134cabc4bf9efd0d1cf2dc434
     home: https://github.com/digitalocean/do-operator
@@ -240,7 +240,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: v0.1.6
-    created: "2024-07-01T06:23:07.270946613Z"
+    created: "2024-07-01T06:24:54.381325013Z"
     description: A Helm chart for deploying the DigitalOcean Operator
     digest: 2bb842f6c3e4ff13d94fcf4cd1ffeab8f51369ba199ea6ef0f31f6b0240b0a45
     home: https://github.com/digitalocean/do-operator
@@ -260,7 +260,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: v0.1.6
-    created: "2024-07-01T06:23:07.270585636Z"
+    created: "2024-07-01T06:24:54.380988552Z"
     description: A Helm chart for deploying the DigitalOcean Operator
     digest: e26c9e76c4c31f3462adb171829e1e748b4b8c91c294cd06f5590ad933c1efc2
     home: https://github.com/digitalocean/do-operator
@@ -281,7 +281,7 @@ entries:
   drain-node-on-crash:
   - apiVersion: v1
     appVersion: v1.0
-    created: "2024-07-01T06:23:07.271524316Z"
+    created: "2024-07-01T06:24:54.381988246Z"
     description: A simple little for fixing kubernetes issues.
     digest: 8129a18f20777f0cd080d58fd7c517c15af3fcfd5af7c83d3cbdae39d38a703c
     home: https://Support.Tools
@@ -300,7 +300,7 @@ entries:
   go-redis-proxy:
   - apiVersion: v1
     appVersion: 0.0.7
-    created: "2024-07-01T06:23:07.273505829Z"
+    created: "2024-07-01T06:24:54.385093487Z"
     description: go-redis-proxy is a tool for proxying redis requests to a redis cluster
     digest: 21bdf1a5d53f9a53f264f37fc50b7a39a403d33fa8a801a2c214f7d3d99c2807
     home: https://github.com/supporttools/go-redis-proxy
@@ -319,7 +319,7 @@ entries:
     version: 0.0.7
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2024-07-01T06:23:07.27314326Z"
+    created: "2024-07-01T06:24:54.384769269Z"
     description: go-redis-proxy is a tool for proxying redis requests to a redis cluster
     digest: 6bb14a1d67e103ad9d4ecaa4cbec615d101e9626affe9c83d4387a034d87668d
     home: https://github.com/supporttools/go-redis-proxy
@@ -338,7 +338,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2024-07-01T06:23:07.272815155Z"
+    created: "2024-07-01T06:24:54.384426627Z"
     description: go-redis-proxy is a tool for proxying redis requests to a redis cluster
     digest: 819b313007d3bb133471e61ebfd4b7bdcebecd8e03f98e5680e2db3982c0b419
     home: https://github.com/supporttools/go-redis-proxy
@@ -357,7 +357,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2024-07-01T06:23:07.272497429Z"
+    created: "2024-07-01T06:24:54.383998034Z"
     description: go-redis-proxy is a tool for proxying redis requests to a redis cluster
     digest: 3b699167ef0401c599b2c3a07406f7aa00ac091325ed78ebcd3db4254ff2b954
     home: https://github.com/supporttools/go-redis-proxy
@@ -376,7 +376,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2024-07-01T06:23:07.272182469Z"
+    created: "2024-07-01T06:24:54.383597392Z"
     description: go-redis-proxy is a tool for proxying redis requests to a redis cluster
     digest: 3e965e50ad248f86d1705bb75177e2bb9940c4f8b558550d7a2a0acc84868e09
     home: https://github.com/supporttools/go-redis-proxy
@@ -395,7 +395,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-07-01T06:23:07.271863782Z"
+    created: "2024-07-01T06:24:54.383161235Z"
     description: go-redis-proxy is a tool for proxying redis requests to a redis cluster
     digest: 2b81146d828ca16ed5156e65bf741736afa915794589d3de6f91c2e7b87af855
     home: https://github.com/supporttools/go-redis-proxy
@@ -415,7 +415,7 @@ entries:
   go-sql-proxy:
   - apiVersion: v1
     appVersion: 0.2.12
-    created: "2024-07-01T06:23:07.275840184Z"
+    created: "2024-07-01T06:24:54.386066981Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: 7f4d8f39450aa17b8f9564cc4c0bc0018a6048db4be6e587226bb62fa4d53886
@@ -435,7 +435,7 @@ entries:
     version: 0.2.12
   - apiVersion: v1
     appVersion: 0.2.11
-    created: "2024-07-01T06:23:07.275076202Z"
+    created: "2024-07-01T06:24:54.385747022Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: 8892d27130f9251f4300db0fa06d7fae49a86b500e3a78fe71f411a8e1199a5c
@@ -455,7 +455,7 @@ entries:
     version: 0.2.11
   - apiVersion: v1
     appVersion: 0.2.10
-    created: "2024-07-01T06:23:07.274319304Z"
+    created: "2024-07-01T06:24:54.385414348Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: b0190440be4f1747d25629f3748bbfff7bbb75f37c7c3ae0acd0429a4975e210
@@ -475,7 +475,7 @@ entries:
     version: 0.2.10
   - apiVersion: v1
     appVersion: 0.2.9
-    created: "2024-07-01T06:23:07.278194867Z"
+    created: "2024-07-01T06:24:54.388379897Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: 27b6ac5dc82d7914bf244d43a237465a41eb3bb79b6b0a7f67fa16cf6755293b
@@ -495,7 +495,7 @@ entries:
     version: 0.2.9
   - apiVersion: v1
     appVersion: 0.2.8
-    created: "2024-07-01T06:23:07.277870278Z"
+    created: "2024-07-01T06:24:54.388058234Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: b4c6bba538d0951c78309c3a800df5604a8b592c8240615533e1465c400059ff
@@ -515,7 +515,7 @@ entries:
     version: 0.2.8
   - apiVersion: v1
     appVersion: 0.2.7
-    created: "2024-07-01T06:23:07.277515714Z"
+    created: "2024-07-01T06:24:54.38773085Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: 2d3509ee3db6e80a9afc6459c1f5d0eef9bedf0f4afeeb8a82d221803327003f
@@ -535,7 +535,7 @@ entries:
     version: 0.2.7
   - apiVersion: v1
     appVersion: 0.2.6
-    created: "2024-07-01T06:23:07.277156791Z"
+    created: "2024-07-01T06:24:54.387367359Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: 3fb73a74d1363ac6979f3dbf07d75b45b428ddb583f7c957fdbc6269c7b8ab3f
@@ -555,7 +555,7 @@ entries:
     version: 0.2.6
   - apiVersion: v1
     appVersion: 0.2.5
-    created: "2024-07-01T06:23:07.276833135Z"
+    created: "2024-07-01T06:24:54.387020058Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: b6d67b6e5939cd259e2e7c2d02c27484f6d605a5762ade1d51197205fb86ac3e
@@ -575,7 +575,7 @@ entries:
     version: 0.2.5
   - apiVersion: v1
     appVersion: 0.2.4
-    created: "2024-07-01T06:23:07.276512564Z"
+    created: "2024-07-01T06:24:54.386702633Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: 40c7288202536cc00e1e246dc61d65006f5b8a6632fff17d08d1eb054d7b1612
@@ -595,7 +595,7 @@ entries:
     version: 0.2.4
   - apiVersion: v1
     appVersion: 0.2.3
-    created: "2024-07-01T06:23:07.27618497Z"
+    created: "2024-07-01T06:24:54.386386781Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: f5187ae7ad00a29d629dfcef921dde16c4b740823978d754933db486aff7e958
@@ -616,7 +616,7 @@ entries:
   go-web-cache:
   - apiVersion: v2
     appVersion: v1.3.2
-    created: "2024-07-01T06:23:07.284525861Z"
+    created: "2024-07-01T06:24:54.394776259Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -636,7 +636,7 @@ entries:
     version: v1.3.2
   - apiVersion: v2
     appVersion: v1.3.1
-    created: "2024-07-01T06:23:07.284130531Z"
+    created: "2024-07-01T06:24:54.394449927Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -656,7 +656,7 @@ entries:
     version: v1.3.1
   - apiVersion: v2
     appVersion: v1.3.0
-    created: "2024-07-01T06:23:07.283802145Z"
+    created: "2024-07-01T06:24:54.394126491Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -676,7 +676,7 @@ entries:
     version: v1.3.0
   - apiVersion: v2
     appVersion: v1.2.11
-    created: "2024-07-01T06:23:07.280107812Z"
+    created: "2024-07-01T06:24:54.391102132Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -696,7 +696,7 @@ entries:
     version: v1.2.11
   - apiVersion: v2
     appVersion: v1.2.10
-    created: "2024-07-01T06:23:07.279782452Z"
+    created: "2024-07-01T06:24:54.390766262Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -716,7 +716,7 @@ entries:
     version: v1.2.10
   - apiVersion: v2
     appVersion: v1.2.9
-    created: "2024-07-01T06:23:07.283472147Z"
+    created: "2024-07-01T06:24:54.393796552Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -736,7 +736,7 @@ entries:
     version: v1.2.9
   - apiVersion: v2
     appVersion: v1.2.8
-    created: "2024-07-01T06:23:07.283139002Z"
+    created: "2024-07-01T06:24:54.393471373Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -756,7 +756,7 @@ entries:
     version: v1.2.8
   - apiVersion: v2
     appVersion: v1.2.7
-    created: "2024-07-01T06:23:07.282800217Z"
+    created: "2024-07-01T06:24:54.393143799Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -776,7 +776,7 @@ entries:
     version: v1.2.7
   - apiVersion: v2
     appVersion: v1.2.6
-    created: "2024-07-01T06:23:07.282279101Z"
+    created: "2024-07-01T06:24:54.392817728Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -796,7 +796,7 @@ entries:
     version: v1.2.6
   - apiVersion: v2
     appVersion: v1.2.5
-    created: "2024-07-01T06:23:07.281471477Z"
+    created: "2024-07-01T06:24:54.392487769Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -816,7 +816,7 @@ entries:
     version: v1.2.5
   - apiVersion: v2
     appVersion: v1.2.4
-    created: "2024-07-01T06:23:07.281103858Z"
+    created: "2024-07-01T06:24:54.39215737Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -836,7 +836,7 @@ entries:
     version: v1.2.4
   - apiVersion: v2
     appVersion: v1.2.3
-    created: "2024-07-01T06:23:07.280777577Z"
+    created: "2024-07-01T06:24:54.391812824Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -856,7 +856,7 @@ entries:
     version: v1.2.3
   - apiVersion: v2
     appVersion: v1.2.2
-    created: "2024-07-01T06:23:07.280444011Z"
+    created: "2024-07-01T06:24:54.391436629Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -876,7 +876,7 @@ entries:
     version: v1.2.2
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-07-01T06:23:07.279455739Z"
+    created: "2024-07-01T06:24:54.390409433Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -896,7 +896,7 @@ entries:
     version: v1.2.1
   - apiVersion: v2
     appVersion: v1.2.0
-    created: "2024-07-01T06:23:07.279138255Z"
+    created: "2024-07-01T06:24:54.389809577Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -916,7 +916,7 @@ entries:
     version: v1.2.0
   - apiVersion: v2
     appVersion: v1.0.1
-    created: "2024-07-01T06:23:07.278815219Z"
+    created: "2024-07-01T06:24:54.389008535Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -936,7 +936,7 @@ entries:
     version: v1.0.1
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2024-07-01T06:23:07.278488116Z"
+    created: "2024-07-01T06:24:54.388670622Z"
     description: A Helm chart for Kubernetes
     digest: b9ef3f0f613a64b450d1023b13a1fb5145375e94f1606bd6403343aef86521b9
     name: go-web-cache
@@ -947,7 +947,7 @@ entries:
   k3s-janitor:
   - apiVersion: v2
     appVersion: "60"
-    created: "2024-07-01T06:23:07.285638587Z"
+    created: "2024-07-01T06:24:54.395841365Z"
     description: A Helm chart for Kubernetes
     digest: c89bd4dd091ec99e87daa9d4f4d3df51e33e8b9c44b8064b2dc9c2598b35a6e9
     home: https://github.com/SupportTools/k3s-janitor
@@ -968,7 +968,7 @@ entries:
     version: v1.3
   - apiVersion: v2
     appVersion: "57"
-    created: "2024-07-01T06:23:07.285382277Z"
+    created: "2024-07-01T06:24:54.395535943Z"
     description: A Helm chart for Kubernetes
     digest: 4d7d3e4cd244b7488073bb1a26f9e6e69fc2525cbdaddc101094b8384e447b1f
     home: https://github.com/SupportTools/k3s-janitor
@@ -989,7 +989,7 @@ entries:
     version: v1.2
   - apiVersion: v2
     appVersion: "34"
-    created: "2024-07-01T06:23:07.285089949Z"
+    created: "2024-07-01T06:24:54.395281676Z"
     description: A Helm chart for Kubernetes
     digest: 5fc17106578ff4f85c6c16a0c3a2ae578df609b321c5b7b94df17be672f2b51e
     home: https://github.com/SupportTools/k3s-janitor
@@ -1010,7 +1010,7 @@ entries:
     version: v1.1
   - apiVersion: v2
     appVersion: "23"
-    created: "2024-07-01T06:23:07.284831434Z"
+    created: "2024-07-01T06:24:54.395029443Z"
     description: A Helm chart for Kubernetes
     digest: 6bb12b6cfb815f7bc57de679e2a130d3edaf620cc3f4985aaa181ed92366bd03
     home: https://github.com/SupportTools/k3s-janitor
@@ -1032,7 +1032,7 @@ entries:
   k8s-deletion-inspector:
   - apiVersion: v1
     appVersion: v5
-    created: "2024-07-01T06:23:07.285957424Z"
+    created: "2024-07-01T06:24:54.396471096Z"
     description: k8s-deletion-inspector is a tool tunneling prometheus metrics from
       a kubernetes cluster to a remote exporter.
     digest: f4181bda1da2c7ff9f106958e51af8ecb346b8b7300b4b3e315999e94a8a1741
@@ -1053,7 +1053,7 @@ entries:
   kubebackup:
   - apiVersion: v1
     appVersion: "84"
-    created: "2024-07-01T06:23:07.287524982Z"
+    created: "2024-07-01T06:24:54.398601319Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 12195aad38d5aa03efbecf55af111447df1247233feff7d5d6e02508cca95e37
@@ -1073,7 +1073,7 @@ entries:
     version: v1.2.0
   - apiVersion: v1
     appVersion: "71"
-    created: "2024-07-01T06:23:07.287238826Z"
+    created: "2024-07-01T06:24:54.39830311Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 8615657e95e327f12440bff3d8269a0a54535c1d433fc6a8a76d9075bdcbc382
@@ -1093,7 +1093,7 @@ entries:
     version: v1.1.0
   - apiVersion: v1
     appVersion: "57"
-    created: "2024-07-01T06:23:07.286949674Z"
+    created: "2024-07-01T06:24:54.397992628Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 4aa4801ab5365a5cb9c0b65d44216b46d87cb4feec9a37ce7d336643be2f064c
@@ -1113,7 +1113,7 @@ entries:
     version: v1.0.0
   - apiVersion: v1
     appVersion: 0.1.17
-    created: "2024-07-01T06:23:07.286662846Z"
+    created: "2024-07-01T06:24:54.397676706Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: cd256f158fdf91dc31af8cab0e0bc430953dcbf2d07fb43cab53984517b47ad0
@@ -1133,7 +1133,7 @@ entries:
     version: 0.1.17
   - apiVersion: v1
     appVersion: 0.1.16
-    created: "2024-07-01T06:23:07.286313191Z"
+    created: "2024-07-01T06:24:54.397281745Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 68038a9d722602ca0464ee93dcca1f6304e3e8a1f994c5568c130a81a9f4a2b7
@@ -1154,7 +1154,7 @@ entries:
   opsdata:
   - apiVersion: v1
     appVersion: v33
-    created: "2024-07-01T06:23:07.296847627Z"
+    created: "2024-07-01T06:24:54.40698345Z"
     description: opsdata.io
     digest: 87d09779b7bc0eabd1a7d70a4a3a2239658a1d98900106fe82fda67a2fac51bb
     home: https://opsdata.io
@@ -1171,7 +1171,7 @@ entries:
     version: v33
   - apiVersion: v1
     appVersion: v32
-    created: "2024-07-01T06:23:07.296483645Z"
+    created: "2024-07-01T06:24:54.406633474Z"
     description: opsdata.io
     digest: c12bffa4a24ef6b1289c4ea5c19b2db28b73a3f11b67622d0e66838c7b339d2a
     home: https://opsdata.io
@@ -1188,7 +1188,7 @@ entries:
     version: v32
   - apiVersion: v1
     appVersion: v31
-    created: "2024-07-01T06:23:07.296109453Z"
+    created: "2024-07-01T06:24:54.406279831Z"
     description: opsdata.io
     digest: ffebe04c5fa455c2b4974849722c3c8e663b3d17382f862bd695037c079948c4
     home: https://opsdata.io
@@ -1205,7 +1205,7 @@ entries:
     version: v31
   - apiVersion: v1
     appVersion: v30
-    created: "2024-07-01T06:23:07.295676352Z"
+    created: "2024-07-01T06:24:54.405928041Z"
     description: opsdata.io
     digest: d32b0221f756e65bc0300717defa7c0e3adda58e4bc5f93d6d2f52eea53a1d09
     home: https://opsdata.io
@@ -1222,7 +1222,7 @@ entries:
     version: v30
   - apiVersion: v1
     appVersion: v29
-    created: "2024-07-01T06:23:07.294495824Z"
+    created: "2024-07-01T06:24:54.405563357Z"
     description: opsdata.io
     digest: 84214ceb8e9c05da5bae8d0bb1bda37c13ca6771cd7f2dcd3ef460c344a416d7
     home: https://opsdata.io
@@ -1239,7 +1239,7 @@ entries:
     version: v29
   - apiVersion: v1
     appVersion: v28
-    created: "2024-07-01T06:23:07.294099662Z"
+    created: "2024-07-01T06:24:54.405206919Z"
     description: opsdata.io
     digest: e0504e067d1fa44635fd6663d1087b7cec678b167db35d731b260e1bd6f2b148
     home: https://opsdata.io
@@ -1256,7 +1256,7 @@ entries:
     version: v28
   - apiVersion: v1
     appVersion: v27
-    created: "2024-07-01T06:23:07.293749094Z"
+    created: "2024-07-01T06:24:54.404845832Z"
     description: opsdata.io
     digest: 239f4fb751bbe06cd4ddcfc3468807d823f98bf3d3de1069c9ce60bd162b0f38
     home: https://opsdata.io
@@ -1273,7 +1273,7 @@ entries:
     version: v27
   - apiVersion: v1
     appVersion: v26
-    created: "2024-07-01T06:23:07.293384Z"
+    created: "2024-07-01T06:24:54.404472593Z"
     description: opsdata.io
     digest: e53ecd50236e19eab1d0a4264af6d31ac8b49a4efd87f074dfabea4881f93523
     home: https://opsdata.io
@@ -1290,7 +1290,7 @@ entries:
     version: v26
   - apiVersion: v1
     appVersion: v25
-    created: "2024-07-01T06:23:07.292987708Z"
+    created: "2024-07-01T06:24:54.404013632Z"
     description: opsdata.io
     digest: 85426ced031bc700cd4356011798d7b187e543f4d5904d649f362222840756ec
     home: https://opsdata.io
@@ -1307,7 +1307,7 @@ entries:
     version: v25
   - apiVersion: v1
     appVersion: v24
-    created: "2024-07-01T06:23:07.29263689Z"
+    created: "2024-07-01T06:24:54.402927608Z"
     description: opsdata.io
     digest: 575a697c49afcf9c8650b955a20df9bd1f624f726441a8bfe5c339d59351ec52
     home: https://opsdata.io
@@ -1324,7 +1324,7 @@ entries:
     version: v24
   - apiVersion: v1
     appVersion: v23
-    created: "2024-07-01T06:23:07.29228465Z"
+    created: "2024-07-01T06:24:54.402576911Z"
     description: opsdata.io
     digest: e617f55ed5f6b6d644d5189be86b69a085547c5b50c49e99ab8a88ee255479e5
     home: https://opsdata.io
@@ -1341,7 +1341,7 @@ entries:
     version: v23
   - apiVersion: v1
     appVersion: v20
-    created: "2024-07-01T06:23:07.291931067Z"
+    created: "2024-07-01T06:24:54.40221334Z"
     description: opsdata.io
     digest: a981dcf45a3d63329d08b71b1a41ee8139f9912e3b3c90e30a888addc1471d59
     home: https://opsdata.io
@@ -1358,7 +1358,7 @@ entries:
     version: v20
   - apiVersion: v1
     appVersion: v19
-    created: "2024-07-01T06:23:07.291570872Z"
+    created: "2024-07-01T06:24:54.401862242Z"
     description: opsdata.io
     digest: 3cce0172add48dcfee2030c558950adbc868a9baa41e71c768ab7be77e33ad0a
     home: https://opsdata.io
@@ -1375,7 +1375,7 @@ entries:
     version: v19
   - apiVersion: v1
     appVersion: v18
-    created: "2024-07-01T06:23:07.291215546Z"
+    created: "2024-07-01T06:24:54.401513107Z"
     description: opsdata.io
     digest: 7d06babdd6d80726c5ed0e9924e2fa631f951d3f697d2f1ea755cb8cfe54c14a
     home: https://opsdata.io
@@ -1392,7 +1392,7 @@ entries:
     version: v18
   - apiVersion: v1
     appVersion: v17
-    created: "2024-07-01T06:23:07.290861443Z"
+    created: "2024-07-01T06:24:54.401160366Z"
     description: opsdata.io
     digest: b1d8a0a699236275688cd428835bf7e9bc7bf8af11d003305cd67149a5ee2a47
     home: https://opsdata.io
@@ -1409,7 +1409,7 @@ entries:
     version: v17
   - apiVersion: v1
     appVersion: v16
-    created: "2024-07-01T06:23:07.290507389Z"
+    created: "2024-07-01T06:24:54.400808376Z"
     description: opsdata.io
     digest: 698b175b1396d3aa68d5073d90c8cf23f30fea1aa2b683529c5dc8feb0790237
     home: https://opsdata.io
@@ -1426,7 +1426,7 @@ entries:
     version: v16
   - apiVersion: v1
     appVersion: v15
-    created: "2024-07-01T06:23:07.290153085Z"
+    created: "2024-07-01T06:24:54.4004587Z"
     description: opsdata.io
     digest: 19fa12b91fb464bcd367192e832b12601572d90169a4c96050381ad087dcff11
     home: https://opsdata.io
@@ -1443,7 +1443,7 @@ entries:
     version: v15
   - apiVersion: v1
     appVersion: v14
-    created: "2024-07-01T06:23:07.289790606Z"
+    created: "2024-07-01T06:24:54.400105318Z"
     description: opsdata.io
     digest: 5f7df5b4cecb07a6ca69ce680104e9191c34d686f006bc659bacc9c844f8f202
     home: https://opsdata.io
@@ -1460,7 +1460,7 @@ entries:
     version: v14
   - apiVersion: v1
     appVersion: v13
-    created: "2024-07-01T06:23:07.289414992Z"
+    created: "2024-07-01T06:24:54.399741847Z"
     description: opsdata.io
     digest: 4cfd808569354ac263394963712df69aa3299eadf1c9e1d07c4fe8cf73dcac3b
     home: https://opsdata.io
@@ -1477,7 +1477,7 @@ entries:
     version: v13
   - apiVersion: v1
     appVersion: v11
-    created: "2024-07-01T06:23:07.288779413Z"
+    created: "2024-07-01T06:24:54.399345894Z"
     description: opsdata.io
     digest: 408cd7e2febee5a346035856ddf995a800e4087682372afad85a5207d02152c3
     home: https://opsdata.io
@@ -1494,7 +1494,7 @@ entries:
     version: v11
   - apiVersion: v1
     appVersion: v10
-    created: "2024-07-01T06:23:07.287912218Z"
+    created: "2024-07-01T06:24:54.398982824Z"
     description: opsdata.io
     digest: 7d0fd93c7cbb1f1856b25c3502b885b87327d250899fcacc61ff33eafa437bde
     home: https://opsdata.io
@@ -1511,7 +1511,7 @@ entries:
     version: v10
   - apiVersion: v1
     appVersion: v9
-    created: "2024-07-01T06:23:07.297205127Z"
+    created: "2024-07-01T06:24:54.407299101Z"
     description: opsdata.io
     digest: 80feb1b2373d608182d209c0055b59b6a84d570095158c370c1d22fc3af00b74
     home: https://opsdata.io
@@ -1529,7 +1529,7 @@ entries:
   powerdns-admin-proxy:
   - apiVersion: v2
     appVersion: "5"
-    created: "2024-07-01T06:23:07.297805472Z"
+    created: "2024-07-01T06:24:54.407904997Z"
     description: A Helm chart for Kubernetes
     digest: 6e9e3940e0ffb7122d18bebb248177856dd3e3bb062e61cd08068431ea44c634
     name: powerdns-admin-proxy
@@ -1539,7 +1539,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: "4"
-    created: "2024-07-01T06:23:07.297522782Z"
+    created: "2024-07-01T06:24:54.407592551Z"
     description: A Helm chart for Kubernetes
     digest: ad01796a6db4bfba74b8d2540196249549ad29841d7228763608e13dd4e1dc31
     name: powerdns-admin-proxy
@@ -1550,7 +1550,7 @@ entries:
   prometheus-tunnel:
   - apiVersion: v1
     appVersion: v16
-    created: "2024-07-01T06:23:07.299690444Z"
+    created: "2024-07-01T06:24:54.409786804Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: 6e2842dffa0e2339d072037edf83dad3abf5957559d43be0d64a1c8e602785d0
@@ -1570,7 +1570,7 @@ entries:
     version: v16
   - apiVersion: v1
     appVersion: v14
-    created: "2024-07-01T06:23:07.299380995Z"
+    created: "2024-07-01T06:24:54.409470151Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: 1e580fbf0a4559f0af752a3957dab9bc126ded613539c745ff424ad0def14a5e
@@ -1590,7 +1590,7 @@ entries:
     version: v14
   - apiVersion: v1
     appVersion: v13
-    created: "2024-07-01T06:23:07.299067477Z"
+    created: "2024-07-01T06:24:54.409160039Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: 92f614b89a49666e355f8a9b04767317b330193d5f0bc42a0b4176c4daeb6520
@@ -1610,7 +1610,7 @@ entries:
     version: v13
   - apiVersion: v1
     appVersion: v12
-    created: "2024-07-01T06:23:07.298755472Z"
+    created: "2024-07-01T06:24:54.40885084Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: f1e5346352cdca3e2e7352a7f4ce2844f7cb29e8a51a49d1313304198146074f
@@ -1630,7 +1630,7 @@ entries:
     version: v12
   - apiVersion: v1
     appVersion: v11
-    created: "2024-07-01T06:23:07.298443307Z"
+    created: "2024-07-01T06:24:54.408539486Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: c660b90e06386e21066e4b00b2c487a1ef5fe891c569760222d850c564811bdb
@@ -1650,7 +1650,7 @@ entries:
     version: v11
   - apiVersion: v1
     appVersion: v10
-    created: "2024-07-01T06:23:07.298126914Z"
+    created: "2024-07-01T06:24:54.408225678Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: ce6c12122454b74ec226440268a0ca963c90f3077c9eef8017f35f70d9cc1e28
@@ -1670,7 +1670,7 @@ entries:
     version: v10
   - apiVersion: v1
     appVersion: v9
-    created: "2024-07-01T06:23:07.300606361Z"
+    created: "2024-07-01T06:24:54.411556583Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: 68f69fc36e0cf8c4c9e79f2297d078c14b0669c3caf1212d96cd5625ddefea93
@@ -1690,7 +1690,7 @@ entries:
     version: v9
   - apiVersion: v1
     appVersion: v8
-    created: "2024-07-01T06:23:07.300300478Z"
+    created: "2024-07-01T06:24:54.411227096Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: 764d57a1cd8fb905ea6552a8fbfff50d44e23114c704da907866dd43ddcbd162
@@ -1710,7 +1710,7 @@ entries:
     version: v8
   - apiVersion: v1
     appVersion: v7
-    created: "2024-07-01T06:23:07.299992971Z"
+    created: "2024-07-01T06:24:54.410637028Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: 7598f01423f5e8409345686b7e98c8139c8566955dcb4b3a8885da17e0773e8e
@@ -1731,7 +1731,7 @@ entries:
   site-monitor:
   - apiVersion: v1
     appVersion: 1.1.12
-    created: "2024-07-01T06:23:07.304042471Z"
+    created: "2024-07-01T06:24:54.414124236Z"
     description: site-monitor is a tool monitoring the status of a website and the
       HTTP access path.
     digest: 8e40f6c36ed06ce4b55be0a1530c5548bd3432120e365750bfdc8b89545b7fb0
@@ -1751,7 +1751,7 @@ entries:
     version: 1.1.12
   - apiVersion: v1
     appVersion: 1.1.11
-    created: "2024-07-01T06:23:07.30358331Z"
+    created: "2024-07-01T06:24:54.413692347Z"
     description: site-monitor is a tool monitoring the status of a website and the
       HTTP access path.
     digest: 7e613c3e2ed30758dbd40eb6a25ecd134d333a086718836a174e421d304a9fbf
@@ -1771,7 +1771,7 @@ entries:
     version: 1.1.11
   - apiVersion: v1
     appVersion: 1.1.10
-    created: "2024-07-01T06:23:07.302382179Z"
+    created: "2024-07-01T06:24:54.413269164Z"
     description: site-monitor is a tool monitoring the status of a website and the
       HTTP access path.
     digest: b8255089bfeb7f6a12fbf5efb5268ae83ab6b3e4007603f29b1167277d07c132
@@ -1791,7 +1791,7 @@ entries:
     version: 1.1.10
   - apiVersion: v1
     appVersion: 1.1.9
-    created: "2024-07-01T06:23:07.304985137Z"
+    created: "2024-07-01T06:24:54.415018733Z"
     description: site-monitor is a tool monitoring the status of a website and the
       HTTP access path.
     digest: 9c02534e7b53e9ce0341fa4ae1236340466f3a1a27b0b99937b5c71d037e6af7
@@ -1811,7 +1811,7 @@ entries:
     version: 1.1.9
   - apiVersion: v1
     appVersion: 1.1.8
-    created: "2024-07-01T06:23:07.304501371Z"
+    created: "2024-07-01T06:24:54.414570573Z"
     description: site-monitor is a tool monitoring the status of a website and the
       HTTP access path.
     digest: c5f938e63d17d48899ae8a0bec061db70977e770f4dad424ae5317926b111785
@@ -1831,7 +1831,7 @@ entries:
     version: 1.1.8
   - apiVersion: v1
     appVersion: 1.0.7
-    created: "2024-07-01T06:23:07.301883745Z"
+    created: "2024-07-01T06:24:54.412844127Z"
     description: site-monitor is a tool monitoring the status of a website and the
       HTTP access path.
     digest: 407bb7a230de768ff5cf4a8be6968f76d00af3383fbbb765f07ecf9ab5da3b87
@@ -1851,7 +1851,7 @@ entries:
     version: 1.0.7
   - apiVersion: v1
     appVersion: 1.0.6
-    created: "2024-07-01T06:23:07.301468797Z"
+    created: "2024-07-01T06:24:54.412431734Z"
     description: site-monitor is a tool monitoring the status of a website and the
       HTTP access path.
     digest: fd44132df0196f7c68b714d3d5c42eb7bbe8bb331b05abff7a0d9c25f4b97030
@@ -1871,7 +1871,7 @@ entries:
     version: 1.0.6
   - apiVersion: v1
     appVersion: 1.0.5
-    created: "2024-07-01T06:23:07.301016249Z"
+    created: "2024-07-01T06:24:54.412011987Z"
     description: site-monitor is a tool monitoring the status of a website and the
       HTTP access path.
     digest: 1c654050a12497cef0f3278fe4ce8ecba77e30bcd0b9077d9e390da1bbcc8e4f
@@ -1892,7 +1892,7 @@ entries:
   systems-information:
   - apiVersion: v1
     appVersion: 0.0.1-rc3
-    created: "2024-07-01T06:23:07.305308664Z"
+    created: "2024-07-01T06:24:54.415294029Z"
     description: Rancher Systems Summary Report
     digest: e1b15ecbadf97a3655a01ceb7a8019e72e7883dd844657ddf78fe95b969f631a
     home: https://support.rancher.com
@@ -1913,7 +1913,7 @@ entries:
   uptime-kuma:
   - apiVersion: v2
     appVersion: "85"
-    created: "2024-07-01T06:23:07.308244806Z"
+    created: "2024-07-01T06:24:54.419121222Z"
     description: A Helm chart Uptime Kuma
     digest: 9e5cdcb693b95c47e727c3074945aac43952ddcde516b7f7144a0c0c00c8d6ae
     home: https://github.com/SupportTools/uptime-kuma
@@ -1933,7 +1933,7 @@ entries:
     version: v1.7
   - apiVersion: v2
     appVersion: "83"
-    created: "2024-07-01T06:23:07.307869112Z"
+    created: "2024-07-01T06:24:54.418733786Z"
     description: A Helm chart Uptime Kuma
     digest: 8dfa74ff3c43a448134ea398d32547880123e613d02c2d39dc8f48ab75e6d25d
     home: https://github.com/SupportTools/uptime-kuma
@@ -1953,7 +1953,7 @@ entries:
     version: v1.6
   - apiVersion: v2
     appVersion: "81"
-    created: "2024-07-01T06:23:07.307495061Z"
+    created: "2024-07-01T06:24:54.418315782Z"
     description: A Helm chart Uptime Kuma
     digest: 671004bc4cd6833f711c88e74d13580acc6f2716d35bef24164f5ce0b41c5c8d
     home: https://github.com/SupportTools/uptime-kuma
@@ -1973,7 +1973,7 @@ entries:
     version: v1.5
   - apiVersion: v2
     appVersion: "79"
-    created: "2024-07-01T06:23:07.307115229Z"
+    created: "2024-07-01T06:24:54.41712395Z"
     description: A Helm chart Uptime Kuma
     digest: e85a5916104a40c7a30651c4c665198a08d728c96a7c892caf1f4d07864b6dc0
     home: https://github.com/SupportTools/uptime-kuma
@@ -1993,7 +1993,7 @@ entries:
     version: v1.4
   - apiVersion: v2
     appVersion: "77"
-    created: "2024-07-01T06:23:07.306702796Z"
+    created: "2024-07-01T06:24:54.416747284Z"
     description: A Helm chart Uptime Kuma
     digest: 1a7a1097ac1228e7416493df84a19b0a9842a7add306b691cf97274477c6d2a2
     home: https://github.com/SupportTools/uptime-kuma
@@ -2013,7 +2013,7 @@ entries:
     version: v1.3
   - apiVersion: v2
     appVersion: "75"
-    created: "2024-07-01T06:23:07.306324958Z"
+    created: "2024-07-01T06:24:54.416369856Z"
     description: A Helm chart Uptime Kuma
     digest: 8c32f57365adea13b54c73a845734b6d56aff22e05604038e63dd6b67e25d27c
     home: https://github.com/SupportTools/uptime-kuma
@@ -2033,7 +2033,7 @@ entries:
     version: v1.2
   - apiVersion: v2
     appVersion: "65"
-    created: "2024-07-01T06:23:07.305943243Z"
+    created: "2024-07-01T06:24:54.41598249Z"
     description: A Helm chart Uptime Kuma
     digest: b86168ffa3e15aef3f51e897adab106985b9b3fdf68bbe57d21b86f317bed87b
     home: https://github.com/SupportTools/uptime-kuma
@@ -2053,7 +2053,7 @@ entries:
     version: v1.1
   - apiVersion: v2
     appVersion: "61"
-    created: "2024-07-01T06:23:07.305558161Z"
+    created: "2024-07-01T06:24:54.415535272Z"
     description: A Helm chart Uptime Kuma
     digest: 4a6769b9638c2b201de1b03080b0ae2674ec771cbc464df6d7f49becf4722c01
     home: https://github.com/SupportTools/uptime-kuma
@@ -2075,7 +2075,7 @@ entries:
   website:
   - apiVersion: v2
     appVersion: v52
-    created: "2024-07-01T06:23:07.315751742Z"
+    created: "2024-07-01T06:24:54.427266871Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -2098,8 +2098,32 @@ entries:
     - https://charts.support.tools/website-v52.tgz
     version: v52
   - apiVersion: v2
+    appVersion: v18
+    created: "2024-07-01T06:24:54.426440301Z"
+    dependencies:
+    - condition: web-cache.enabled
+      name: go-web-cache
+      repository: https://charts.support.tools/
+      version: v1.3.2
+    description: A Helm chart for support.tools website
+    digest: fd278c0a4c6e18e772a3479b8af74c4f00dd290eb4eabeb55ec69d495e224a21
+    home: https://support.tools
+    icon: https://cdn.support.tools/profiles/avatar-centered.png
+    keywords:
+    - kubernetes
+    - website
+    maintainers:
+    - email: mmattox@support.tools
+      name: mattmattox
+    name: website
+    sources:
+    - https://github.com/supporttools/website
+    urls:
+    - https://charts.support.tools/website-v18.tgz
+    version: v18
+  - apiVersion: v2
     appVersion: v17
-    created: "2024-07-01T06:23:07.3149396Z"
+    created: "2024-07-01T06:24:54.425092405Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -2123,7 +2147,7 @@ entries:
     version: v17
   - apiVersion: v2
     appVersion: v15
-    created: "2024-07-01T06:23:07.314083396Z"
+    created: "2024-07-01T06:24:54.424074777Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -2147,7 +2171,7 @@ entries:
     version: v15
   - apiVersion: v2
     appVersion: v14
-    created: "2024-07-01T06:23:07.313229786Z"
+    created: "2024-07-01T06:24:54.42322825Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -2171,7 +2195,7 @@ entries:
     version: v14
   - apiVersion: v2
     appVersion: v13
-    created: "2024-07-01T06:23:07.312367119Z"
+    created: "2024-07-01T06:24:54.422428261Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -2195,7 +2219,7 @@ entries:
     version: v13
   - apiVersion: v2
     appVersion: v12
-    created: "2024-07-01T06:23:07.310999749Z"
+    created: "2024-07-01T06:24:54.421634223Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -2219,7 +2243,7 @@ entries:
     version: v12
   - apiVersion: v2
     appVersion: v11
-    created: "2024-07-01T06:23:07.309947277Z"
+    created: "2024-07-01T06:24:54.420833702Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -2243,7 +2267,7 @@ entries:
     version: v11
   - apiVersion: v2
     appVersion: v10
-    created: "2024-07-01T06:23:07.309096362Z"
+    created: "2024-07-01T06:24:54.420022942Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -2267,7 +2291,7 @@ entries:
     version: v10
   - apiVersion: v2
     appVersion: v9
-    created: "2024-07-01T06:23:07.319412844Z"
+    created: "2024-07-01T06:24:54.430512695Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -2291,7 +2315,7 @@ entries:
     version: v9
   - apiVersion: v2
     appVersion: v8
-    created: "2024-07-01T06:23:07.318192667Z"
+    created: "2024-07-01T06:24:54.429722454Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -2315,7 +2339,7 @@ entries:
     version: v8
   - apiVersion: v2
     appVersion: v7
-    created: "2024-07-01T06:23:07.31739386Z"
+    created: "2024-07-01T06:24:54.428925901Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -2339,7 +2363,7 @@ entries:
     version: v7
   - apiVersion: v2
     appVersion: v6
-    created: "2024-07-01T06:23:07.316553705Z"
+    created: "2024-07-01T06:24:54.4281149Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -2361,4 +2385,4 @@ entries:
     urls:
     - https://charts.support.tools/website-v6.tgz
     version: v6
-generated: "2024-07-01T06:23:07.266055667Z"
+generated: "2024-07-01T06:24:54.377248882Z"
