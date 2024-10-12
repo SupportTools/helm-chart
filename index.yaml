@@ -3,7 +3,7 @@ entries:
   do-database-metrics-adapter:
   - apiVersion: v2
     appVersion: 1.0.12
-    created: "2024-10-12T05:32:06.219414492Z"
+    created: "2024-10-12T05:32:24.492540478Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: bd0691e792d09e6a33e7daddaa4ecae90dcb3292575112d5afd25b2c837edd00
@@ -25,7 +25,7 @@ entries:
     version: 1.0.12
   - apiVersion: v2
     appVersion: 1.0.11
-    created: "2024-10-12T05:32:06.219060373Z"
+    created: "2024-10-12T05:32:24.492204644Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: d69e7d3a8432b8ab4873588dd26586fc0a5a0b1a2fd3ee487149420e82891e9b
@@ -47,7 +47,7 @@ entries:
     version: 1.0.11
   - apiVersion: v2
     appVersion: 1.0.10
-    created: "2024-10-12T05:32:06.218718966Z"
+    created: "2024-10-12T05:32:24.491852799Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: 7907f5a90f9f5f48a146f7e4db7aaa34c6985b8a5a007d18bb09b9eaac933f92
@@ -69,7 +69,7 @@ entries:
     version: 1.0.10
   - apiVersion: v2
     appVersion: 1.0.9
-    created: "2024-10-12T05:32:06.221383541Z"
+    created: "2024-10-12T05:32:24.497516307Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: 5ebe1626ed127105b7eb5baa4e381dcdd7525d6800dd49fbfa6207a53ad41fb9
@@ -91,7 +91,7 @@ entries:
     version: 1.0.9
   - apiVersion: v2
     appVersion: 1.0.8
-    created: "2024-10-12T05:32:06.221073343Z"
+    created: "2024-10-12T05:32:24.496884802Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: ee5d3e69be56e45eb29a429a9b01c3f9d1c30c9aa6c94af02be8ca5b85a4a0ce
@@ -113,7 +113,7 @@ entries:
     version: 1.0.8
   - apiVersion: v2
     appVersion: 1.0.7
-    created: "2024-10-12T05:32:06.220763495Z"
+    created: "2024-10-12T05:32:24.496205598Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: 730e78f8881a21f2d8c351692ff9586e7f02af354805b0cedc8a57c717d423f0
@@ -135,7 +135,7 @@ entries:
     version: 1.0.7
   - apiVersion: v2
     appVersion: 1.0.6
-    created: "2024-10-12T05:32:06.220447066Z"
+    created: "2024-10-12T05:32:24.495543076Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: cc462b3bddcabade27391e115767516bfcc672c14be8745ff2cb237cfe3475c8
@@ -157,7 +157,7 @@ entries:
     version: 1.0.6
   - apiVersion: v2
     appVersion: 1.0.5
-    created: "2024-10-12T05:32:06.220124565Z"
+    created: "2024-10-12T05:32:24.494892826Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: 186de30d3076cbb464119bfc9d2efe0ed58e0b01cf74115a458110c289fb2b5a
@@ -179,7 +179,7 @@ entries:
     version: 1.0.5
   - apiVersion: v1
     appVersion: 1.0.2
-    created: "2024-10-12T05:32:06.219776697Z"
+    created: "2024-10-12T05:32:24.492869391Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: 2a949419cfbbda2dc853525219c1f2f3726b2d7114287274943c5b35777babde
@@ -199,7 +199,7 @@ entries:
     version: 1.0.2
   - apiVersion: v1
     appVersion: 1.0.1
-    created: "2024-10-12T05:32:06.218349889Z"
+    created: "2024-10-12T05:32:24.491458475Z"
     description: do-database-metrics-adapter is an adapter for the Kubernetes Metrics
       API that allows you to collect metrics from DigitalOcean Managed Databases.
     digest: cb9eaf5f77bbede421ba0821e381a5c6cc1ab5155238d769fd06fbab4ba11499
@@ -220,7 +220,7 @@ entries:
   do-operator:
   - apiVersion: v2
     appVersion: v0.1.6
-    created: "2024-10-12T05:32:06.22240287Z"
+    created: "2024-10-12T05:32:24.499380977Z"
     description: A Helm chart for deploying the DigitalOcean Operator
     digest: fcae0b81b1a75ed973491d2eb5f5f56079dfd59134cabc4bf9efd0d1cf2dc434
     home: https://github.com/digitalocean/do-operator
@@ -240,7 +240,7 @@ entries:
     version: 0.1.7
   - apiVersion: v2
     appVersion: v0.1.6
-    created: "2024-10-12T05:32:06.2220222Z"
+    created: "2024-10-12T05:32:24.498719075Z"
     description: A Helm chart for deploying the DigitalOcean Operator
     digest: 2bb842f6c3e4ff13d94fcf4cd1ffeab8f51369ba199ea6ef0f31f6b0240b0a45
     home: https://github.com/digitalocean/do-operator
@@ -260,7 +260,7 @@ entries:
     version: 0.1.6
   - apiVersion: v2
     appVersion: v0.1.6
-    created: "2024-10-12T05:32:06.221669383Z"
+    created: "2024-10-12T05:32:24.498074366Z"
     description: A Helm chart for deploying the DigitalOcean Operator
     digest: e26c9e76c4c31f3462adb171829e1e748b4b8c91c294cd06f5590ad933c1efc2
     home: https://github.com/digitalocean/do-operator
@@ -281,7 +281,7 @@ entries:
   drain-node-on-crash:
   - apiVersion: v1
     appVersion: v1.0
-    created: "2024-10-12T05:32:06.222634211Z"
+    created: "2024-10-12T05:32:24.500193366Z"
     description: A simple little for fixing kubernetes issues.
     digest: 8129a18f20777f0cd080d58fd7c517c15af3fcfd5af7c83d3cbdae39d38a703c
     home: https://Support.Tools
@@ -300,7 +300,7 @@ entries:
   go-redis-proxy:
   - apiVersion: v1
     appVersion: 0.0.7
-    created: "2024-10-12T05:32:06.226215724Z"
+    created: "2024-10-12T05:32:24.504083073Z"
     description: go-redis-proxy is a tool for proxying redis requests to a redis cluster
     digest: 21bdf1a5d53f9a53f264f37fc50b7a39a403d33fa8a801a2c214f7d3d99c2807
     home: https://github.com/supporttools/go-redis-proxy
@@ -319,7 +319,7 @@ entries:
     version: 0.0.7
   - apiVersion: v1
     appVersion: 0.0.6
-    created: "2024-10-12T05:32:06.22589148Z"
+    created: "2024-10-12T05:32:24.50366193Z"
     description: go-redis-proxy is a tool for proxying redis requests to a redis cluster
     digest: 6bb14a1d67e103ad9d4ecaa4cbec615d101e9626affe9c83d4387a034d87668d
     home: https://github.com/supporttools/go-redis-proxy
@@ -338,7 +338,7 @@ entries:
     version: 0.0.6
   - apiVersion: v1
     appVersion: 0.0.5
-    created: "2024-10-12T05:32:06.225557607Z"
+    created: "2024-10-12T05:32:24.503312059Z"
     description: go-redis-proxy is a tool for proxying redis requests to a redis cluster
     digest: 819b313007d3bb133471e61ebfd4b7bdcebecd8e03f98e5680e2db3982c0b419
     home: https://github.com/supporttools/go-redis-proxy
@@ -357,7 +357,7 @@ entries:
     version: 0.0.5
   - apiVersion: v1
     appVersion: 0.0.4
-    created: "2024-10-12T05:32:06.225205642Z"
+    created: "2024-10-12T05:32:24.502592811Z"
     description: go-redis-proxy is a tool for proxying redis requests to a redis cluster
     digest: 3b699167ef0401c599b2c3a07406f7aa00ac091325ed78ebcd3db4254ff2b954
     home: https://github.com/supporttools/go-redis-proxy
@@ -376,7 +376,7 @@ entries:
     version: 0.0.4
   - apiVersion: v1
     appVersion: 0.0.3
-    created: "2024-10-12T05:32:06.224361451Z"
+    created: "2024-10-12T05:32:24.501750603Z"
     description: go-redis-proxy is a tool for proxying redis requests to a redis cluster
     digest: 3e965e50ad248f86d1705bb75177e2bb9940c4f8b558550d7a2a0acc84868e09
     home: https://github.com/supporttools/go-redis-proxy
@@ -395,7 +395,7 @@ entries:
     version: 0.0.3
   - apiVersion: v1
     appVersion: 0.0.2
-    created: "2024-10-12T05:32:06.223617064Z"
+    created: "2024-10-12T05:32:24.500911682Z"
     description: go-redis-proxy is a tool for proxying redis requests to a redis cluster
     digest: 2b81146d828ca16ed5156e65bf741736afa915794589d3de6f91c2e7b87af855
     home: https://github.com/supporttools/go-redis-proxy
@@ -415,7 +415,7 @@ entries:
   go-sql-proxy:
   - apiVersion: v1
     appVersion: 0.2.12
-    created: "2024-10-12T05:32:06.227195489Z"
+    created: "2024-10-12T05:32:24.505088284Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: 7f4d8f39450aa17b8f9564cc4c0bc0018a6048db4be6e587226bb62fa4d53886
@@ -435,7 +435,7 @@ entries:
     version: 0.2.12
   - apiVersion: v1
     appVersion: 0.2.11
-    created: "2024-10-12T05:32:06.226872097Z"
+    created: "2024-10-12T05:32:24.504759542Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: 8892d27130f9251f4300db0fa06d7fae49a86b500e3a78fe71f411a8e1199a5c
@@ -455,7 +455,7 @@ entries:
     version: 0.2.11
   - apiVersion: v1
     appVersion: 0.2.10
-    created: "2024-10-12T05:32:06.226547191Z"
+    created: "2024-10-12T05:32:24.504423346Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: b0190440be4f1747d25629f3748bbfff7bbb75f37c7c3ae0acd0429a4975e210
@@ -475,7 +475,7 @@ entries:
     version: 0.2.10
   - apiVersion: v1
     appVersion: 0.2.9
-    created: "2024-10-12T05:32:06.229552601Z"
+    created: "2024-10-12T05:32:24.507440391Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: 27b6ac5dc82d7914bf244d43a237465a41eb3bb79b6b0a7f67fa16cf6755293b
@@ -495,7 +495,7 @@ entries:
     version: 0.2.9
   - apiVersion: v1
     appVersion: 0.2.8
-    created: "2024-10-12T05:32:06.229217096Z"
+    created: "2024-10-12T05:32:24.5070907Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: b4c6bba538d0951c78309c3a800df5604a8b592c8240615533e1465c400059ff
@@ -515,7 +515,7 @@ entries:
     version: 0.2.8
   - apiVersion: v1
     appVersion: 0.2.7
-    created: "2024-10-12T05:32:06.228893743Z"
+    created: "2024-10-12T05:32:24.506727304Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: 2d3509ee3db6e80a9afc6459c1f5d0eef9bedf0f4afeeb8a82d221803327003f
@@ -535,7 +535,7 @@ entries:
     version: 0.2.7
   - apiVersion: v1
     appVersion: 0.2.6
-    created: "2024-10-12T05:32:06.228559581Z"
+    created: "2024-10-12T05:32:24.506394073Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: 3fb73a74d1363ac6979f3dbf07d75b45b428ddb583f7c957fdbc6269c7b8ab3f
@@ -555,7 +555,7 @@ entries:
     version: 0.2.6
   - apiVersion: v1
     appVersion: 0.2.5
-    created: "2024-10-12T05:32:06.22822637Z"
+    created: "2024-10-12T05:32:24.506066384Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: b6d67b6e5939cd259e2e7c2d02c27484f6d605a5762ade1d51197205fb86ac3e
@@ -575,7 +575,7 @@ entries:
     version: 0.2.5
   - apiVersion: v1
     appVersion: 0.2.4
-    created: "2024-10-12T05:32:06.227883802Z"
+    created: "2024-10-12T05:32:24.505737802Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: 40c7288202536cc00e1e246dc61d65006f5b8a6632fff17d08d1eb054d7b1612
@@ -595,7 +595,7 @@ entries:
     version: 0.2.4
   - apiVersion: v1
     appVersion: 0.2.3
-    created: "2024-10-12T05:32:06.227516708Z"
+    created: "2024-10-12T05:32:24.505413589Z"
     description: go-sql-proxy is a tool for backing up the configuration files in
       a Kubernetes cluster and uploading them to a S3 bucket.
     digest: f5187ae7ad00a29d629dfcef921dde16c4b740823978d754933db486aff7e958
@@ -616,7 +616,7 @@ entries:
   go-web-cache:
   - apiVersion: v2
     appVersion: v1.3.2
-    created: "2024-10-12T05:32:06.237418998Z"
+    created: "2024-10-12T05:32:24.514811957Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -636,7 +636,7 @@ entries:
     version: v1.3.2
   - apiVersion: v2
     appVersion: v1.3.1
-    created: "2024-10-12T05:32:06.237087951Z"
+    created: "2024-10-12T05:32:24.514479919Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -656,7 +656,7 @@ entries:
     version: v1.3.1
   - apiVersion: v2
     appVersion: v1.3.0
-    created: "2024-10-12T05:32:06.236756343Z"
+    created: "2024-10-12T05:32:24.51414701Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -676,7 +676,7 @@ entries:
     version: v1.3.0
   - apiVersion: v2
     appVersion: v1.2.11
-    created: "2024-10-12T05:32:06.232999895Z"
+    created: "2024-10-12T05:32:24.509495254Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -696,7 +696,7 @@ entries:
     version: v1.2.11
   - apiVersion: v2
     appVersion: v1.2.10
-    created: "2024-10-12T05:32:06.232146194Z"
+    created: "2024-10-12T05:32:24.509149831Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -716,7 +716,7 @@ entries:
     version: v1.2.10
   - apiVersion: v2
     appVersion: v1.2.9
-    created: "2024-10-12T05:32:06.236422852Z"
+    created: "2024-10-12T05:32:24.513809983Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -736,7 +736,7 @@ entries:
     version: v1.2.9
   - apiVersion: v2
     appVersion: v1.2.8
-    created: "2024-10-12T05:32:06.236080785Z"
+    created: "2024-10-12T05:32:24.513469609Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -756,7 +756,7 @@ entries:
     version: v1.2.8
   - apiVersion: v2
     appVersion: v1.2.7
-    created: "2024-10-12T05:32:06.235742855Z"
+    created: "2024-10-12T05:32:24.513133484Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -776,7 +776,7 @@ entries:
     version: v1.2.7
   - apiVersion: v2
     appVersion: v1.2.6
-    created: "2024-10-12T05:32:06.235333863Z"
+    created: "2024-10-12T05:32:24.512789674Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -796,7 +796,7 @@ entries:
     version: v1.2.6
   - apiVersion: v2
     appVersion: v1.2.5
-    created: "2024-10-12T05:32:06.234984913Z"
+    created: "2024-10-12T05:32:24.512446495Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -816,7 +816,7 @@ entries:
     version: v1.2.5
   - apiVersion: v2
     appVersion: v1.2.4
-    created: "2024-10-12T05:32:06.23461261Z"
+    created: "2024-10-12T05:32:24.512089622Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -836,7 +836,7 @@ entries:
     version: v1.2.4
   - apiVersion: v2
     appVersion: v1.2.3
-    created: "2024-10-12T05:32:06.234226901Z"
+    created: "2024-10-12T05:32:24.511150266Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -856,7 +856,7 @@ entries:
     version: v1.2.3
   - apiVersion: v2
     appVersion: v1.2.2
-    created: "2024-10-12T05:32:06.233831474Z"
+    created: "2024-10-12T05:32:24.510402585Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -876,7 +876,7 @@ entries:
     version: v1.2.2
   - apiVersion: v2
     appVersion: v1.2.1
-    created: "2024-10-12T05:32:06.230884332Z"
+    created: "2024-10-12T05:32:24.508813045Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -896,7 +896,7 @@ entries:
     version: v1.2.1
   - apiVersion: v2
     appVersion: v1.2.0
-    created: "2024-10-12T05:32:06.230553014Z"
+    created: "2024-10-12T05:32:24.508469555Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -916,7 +916,7 @@ entries:
     version: v1.2.0
   - apiVersion: v2
     appVersion: v1.0.1
-    created: "2024-10-12T05:32:06.230184137Z"
+    created: "2024-10-12T05:32:24.508121538Z"
     description: GO-Web-Cache is a simple caching server written in Go that acts as
       a reverse proxy to cache responses from a backend server. It includes features
       such as caching based on Cache-Control directives, health checks, metrics, and
@@ -936,7 +936,7 @@ entries:
     version: v1.0.1
   - apiVersion: v2
     appVersion: v1.0.0
-    created: "2024-10-12T05:32:06.22985265Z"
+    created: "2024-10-12T05:32:24.50775155Z"
     description: A Helm chart for Kubernetes
     digest: b9ef3f0f613a64b450d1023b13a1fb5145375e94f1606bd6403343aef86521b9
     name: go-web-cache
@@ -947,7 +947,7 @@ entries:
   k3s-janitor:
   - apiVersion: v2
     appVersion: "60"
-    created: "2024-10-12T05:32:06.239388768Z"
+    created: "2024-10-12T05:32:24.51587757Z"
     description: A Helm chart for Kubernetes
     digest: c89bd4dd091ec99e87daa9d4f4d3df51e33e8b9c44b8064b2dc9c2598b35a6e9
     home: https://github.com/SupportTools/k3s-janitor
@@ -968,7 +968,7 @@ entries:
     version: v1.3
   - apiVersion: v2
     appVersion: "57"
-    created: "2024-10-12T05:32:06.238940412Z"
+    created: "2024-10-12T05:32:24.515588782Z"
     description: A Helm chart for Kubernetes
     digest: 4d7d3e4cd244b7488073bb1a26f9e6e69fc2525cbdaddc101094b8384e447b1f
     home: https://github.com/SupportTools/k3s-janitor
@@ -989,7 +989,7 @@ entries:
     version: v1.2
   - apiVersion: v2
     appVersion: "34"
-    created: "2024-10-12T05:32:06.238454698Z"
+    created: "2024-10-12T05:32:24.515330492Z"
     description: A Helm chart for Kubernetes
     digest: 5fc17106578ff4f85c6c16a0c3a2ae578df609b321c5b7b94df17be672f2b51e
     home: https://github.com/SupportTools/k3s-janitor
@@ -1010,7 +1010,7 @@ entries:
     version: v1.1
   - apiVersion: v2
     appVersion: "23"
-    created: "2024-10-12T05:32:06.237958583Z"
+    created: "2024-10-12T05:32:24.515073734Z"
     description: A Helm chart for Kubernetes
     digest: 6bb12b6cfb815f7bc57de679e2a130d3edaf620cc3f4985aaa181ed92366bd03
     home: https://github.com/SupportTools/k3s-janitor
@@ -1032,7 +1032,7 @@ entries:
   k8s-deletion-inspector:
   - apiVersion: v1
     appVersion: v6
-    created: "2024-10-12T05:32:06.240121813Z"
+    created: "2024-10-12T05:32:24.516530254Z"
     description: k8s-deletion-inspector is a tool tunneling prometheus metrics from
       a kubernetes cluster to a remote exporter.
     digest: a64746576a600fa5b0e363b6e282db7566f680b89a8d50695ef94f4f34c0058e
@@ -1052,7 +1052,7 @@ entries:
     version: v6
   - apiVersion: v1
     appVersion: v5
-    created: "2024-10-12T05:32:06.239769116Z"
+    created: "2024-10-12T05:32:24.516208996Z"
     description: k8s-deletion-inspector is a tool tunneling prometheus metrics from
       a kubernetes cluster to a remote exporter.
     digest: f4181bda1da2c7ff9f106958e51af8ecb346b8b7300b4b3e315999e94a8a1741
@@ -1073,7 +1073,7 @@ entries:
   kubebackup:
   - apiVersion: v1
     appVersion: "84"
-    created: "2024-10-12T05:32:06.243439294Z"
+    created: "2024-10-12T05:32:24.519281296Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 12195aad38d5aa03efbecf55af111447df1247233feff7d5d6e02508cca95e37
@@ -1093,7 +1093,7 @@ entries:
     version: v1.2.0
   - apiVersion: v1
     appVersion: "71"
-    created: "2024-10-12T05:32:06.243070137Z"
+    created: "2024-10-12T05:32:24.518634472Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 8615657e95e327f12440bff3d8269a0a54535c1d433fc6a8a76d9075bdcbc382
@@ -1113,7 +1113,7 @@ entries:
     version: v1.1.0
   - apiVersion: v1
     appVersion: "57"
-    created: "2024-10-12T05:32:06.24227331Z"
+    created: "2024-10-12T05:32:24.517742921Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 4aa4801ab5365a5cb9c0b65d44216b46d87cb4feec9a37ce7d336643be2f064c
@@ -1133,7 +1133,7 @@ entries:
     version: v1.0.0
   - apiVersion: v1
     appVersion: 0.1.17
-    created: "2024-10-12T05:32:06.241627317Z"
+    created: "2024-10-12T05:32:24.517440628Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: cd256f158fdf91dc31af8cab0e0bc430953dcbf2d07fb43cab53984517b47ad0
@@ -1153,7 +1153,7 @@ entries:
     version: 0.1.17
   - apiVersion: v1
     appVersion: 0.1.16
-    created: "2024-10-12T05:32:06.240758029Z"
+    created: "2024-10-12T05:32:24.516933504Z"
     description: KubeBackup is a tool for backing up the configuration files in a
       Kubernetes cluster and uploading them to a S3 bucket.
     digest: 68038a9d722602ca0464ee93dcca1f6304e3e8a1f994c5568c130a81a9f4a2b7
@@ -1174,7 +1174,7 @@ entries:
   mattoxengineering-website:
   - apiVersion: v2
     appVersion: v19
-    created: "2024-10-12T05:32:06.249724244Z"
+    created: "2024-10-12T05:32:24.527109319Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -1198,7 +1198,7 @@ entries:
     version: v19
   - apiVersion: v2
     appVersion: v18
-    created: "2024-10-12T05:32:06.249122923Z"
+    created: "2024-10-12T05:32:24.526466914Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -1222,7 +1222,7 @@ entries:
     version: v18
   - apiVersion: v2
     appVersion: v17
-    created: "2024-10-12T05:32:06.248522645Z"
+    created: "2024-10-12T05:32:24.525842703Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -1246,7 +1246,7 @@ entries:
     version: v17
   - apiVersion: v2
     appVersion: v16
-    created: "2024-10-12T05:32:06.247918098Z"
+    created: "2024-10-12T05:32:24.525236415Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -1270,7 +1270,7 @@ entries:
     version: v16
   - apiVersion: v2
     appVersion: v15
-    created: "2024-10-12T05:32:06.247274579Z"
+    created: "2024-10-12T05:32:24.524629485Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -1294,7 +1294,7 @@ entries:
     version: v15
   - apiVersion: v2
     appVersion: v14
-    created: "2024-10-12T05:32:06.246668821Z"
+    created: "2024-10-12T05:32:24.524021865Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -1318,7 +1318,7 @@ entries:
     version: v14
   - apiVersion: v2
     appVersion: v13
-    created: "2024-10-12T05:32:06.246063393Z"
+    created: "2024-10-12T05:32:24.523363039Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -1342,7 +1342,7 @@ entries:
     version: v13
   - apiVersion: v2
     appVersion: v12
-    created: "2024-10-12T05:32:06.24544987Z"
+    created: "2024-10-12T05:32:24.522733257Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -1366,7 +1366,7 @@ entries:
     version: v12
   - apiVersion: v2
     appVersion: v11
-    created: "2024-10-12T05:32:06.244834684Z"
+    created: "2024-10-12T05:32:24.522098866Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -1390,7 +1390,7 @@ entries:
     version: v11
   - apiVersion: v2
     appVersion: v10
-    created: "2024-10-12T05:32:06.244194942Z"
+    created: "2024-10-12T05:32:24.521408141Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -1414,7 +1414,7 @@ entries:
     version: v10
   - apiVersion: v2
     appVersion: v9
-    created: "2024-10-12T05:32:06.251402349Z"
+    created: "2024-10-12T05:32:24.527716409Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -1439,7 +1439,7 @@ entries:
   nexmonyx:
   - apiVersion: v1
     appVersion: v74
-    created: "2024-10-12T05:32:06.256462037Z"
+    created: "2024-10-12T05:32:24.533954436Z"
     description: nexmonyx.com
     digest: 28718a2c471bb268cd42a539fe2957dff1ee34542e160bf5b3ea8d7d62ac8e15
     home: https://nexmonyx.com
@@ -1457,7 +1457,7 @@ entries:
   nexmonyx-agent:
   - apiVersion: v1
     appVersion: v84
-    created: "2024-10-12T05:32:06.253231889Z"
+    created: "2024-10-12T05:32:24.529775103Z"
     description: nexmonyx.com agent
     digest: 737039fb5f2208acdee53a2c1fa086e6f2c941273e888ca6990900cf19f1e65f
     home: https://nexmonyx.com
@@ -1474,7 +1474,7 @@ entries:
     version: v84
   - apiVersion: v1
     appVersion: v83
-    created: "2024-10-12T05:32:06.252970191Z"
+    created: "2024-10-12T05:32:24.529165839Z"
     description: nexmonyx.com agent
     digest: 15ae403405930ac0d8967d3b83a92ec15f638c0d75bba52f4f8de387234e4ca3
     home: https://nexmonyx.com
@@ -1491,7 +1491,7 @@ entries:
     version: v83
   - apiVersion: v1
     appVersion: v82
-    created: "2024-10-12T05:32:06.25269559Z"
+    created: "2024-10-12T05:32:24.528518902Z"
     description: nexmonyx.com agent
     digest: 734bf09303b9470150b03946f042ab4295cc83478e06c8751561bcc2c714640e
     home: https://nexmonyx.com
@@ -1508,7 +1508,7 @@ entries:
     version: v82
   - apiVersion: v1
     appVersion: v81
-    created: "2024-10-12T05:32:06.252232728Z"
+    created: "2024-10-12T05:32:24.528024823Z"
     description: nexmonyx.com agent
     digest: 5e33c50f0c3de50ae10cc79824da640fac639c233d860b55f222a8c889a5db75
     home: https://nexmonyx.com
@@ -1526,7 +1526,7 @@ entries:
   nexmonyx-backend:
   - apiVersion: v1
     appVersion: v81
-    created: "2024-10-12T05:32:06.254008466Z"
+    created: "2024-10-12T05:32:24.531206433Z"
     description: nexmonyx.com backend
     digest: 0563be48799524b251abb94dc2c101f211e512b27c590f6b2fc6f2a73e39f1eb
     home: https://nexmonyx.com
@@ -1543,7 +1543,7 @@ entries:
     version: v81
   - apiVersion: v1
     appVersion: v80
-    created: "2024-10-12T05:32:06.253628999Z"
+    created: "2024-10-12T05:32:24.530794036Z"
     description: nexmonyx.com backend
     digest: 85cb17689f2b5e129e3e56bdc4fae6b8c9911820b17f5c8e78b9d2ec7eba67a3
     home: https://nexmonyx.com
@@ -1560,8 +1560,25 @@ entries:
     version: v80
   nexmonyx-frontend:
   - apiVersion: v1
+    appVersion: v84
+    created: "2024-10-12T05:32:24.532363256Z"
+    description: nexmonyx.com frontend
+    digest: e04a6adc5fe0dd390509996d97de3074801627067d0e1dab8c3adfe5b53101ea
+    home: https://nexmonyx.com
+    icon: https://cdn.support.tools/profiles/avatar-centered.png
+    kubeVersion: '>=1.25'
+    maintainers:
+    - email: mmattox@support.tools
+      name: mattmattox
+    name: nexmonyx-frontend
+    sources:
+    - https://github.com/nexmonyx/nexmonyx
+    urls:
+    - https://charts.support.tools/nexmonyx-frontend-v84.tgz
+    version: v84
+  - apiVersion: v1
     appVersion: v81
-    created: "2024-10-12T05:32:06.254833964Z"
+    created: "2024-10-12T05:32:24.532084056Z"
     description: nexmonyx.com frontend
     digest: d5c18580db88e3dfca9f573ba6e516cb35dbf9c29814a8941d0f37d151e5e98c
     home: https://nexmonyx.com
@@ -1578,7 +1595,7 @@ entries:
     version: v81
   - apiVersion: v1
     appVersion: v80
-    created: "2024-10-12T05:32:06.254561276Z"
+    created: "2024-10-12T05:32:24.53176882Z"
     description: nexmonyx.com frontend
     digest: 62a2d67b6268d3f562d685a946a9dd849bbef5f6c591f9cde00a1e1d673607f0
     home: https://nexmonyx.com
@@ -1595,7 +1612,7 @@ entries:
     version: v80
   - apiVersion: v1
     appVersion: v79
-    created: "2024-10-12T05:32:06.254286343Z"
+    created: "2024-10-12T05:32:24.531490171Z"
     description: nexmonyx.com frontend
     digest: 53923e65f0eb420e4c87ea8e6fc756576ec0e4d9487447100ef46b82f4acfec5
     home: https://nexmonyx.com
@@ -1613,7 +1630,7 @@ entries:
   nexmonyx-server:
   - apiVersion: v1
     appVersion: v78
-    created: "2024-10-12T05:32:06.256064406Z"
+    created: "2024-10-12T05:32:24.533556636Z"
     description: nexmonyx.com server
     digest: dd3b44081bcde6da84583ddf52bc1095b40d1b66979ec5c1b0a476e2a4bb02da
     home: https://nexmonyx.com
@@ -1630,7 +1647,7 @@ entries:
     version: v78
   - apiVersion: v1
     appVersion: v77
-    created: "2024-10-12T05:32:06.255659792Z"
+    created: "2024-10-12T05:32:24.533164216Z"
     description: nexmonyx.com server
     digest: 19119420525d44a4be53cfb4b7aeb12315af26457e8873cdd1762eac07276cdd
     home: https://nexmonyx.com
@@ -1647,7 +1664,7 @@ entries:
     version: v77
   - apiVersion: v1
     appVersion: v76
-    created: "2024-10-12T05:32:06.255230242Z"
+    created: "2024-10-12T05:32:24.532767348Z"
     description: nexmonyx.com server
     digest: 42db68ac4e5507d56961b788c3a5aa4ada6cace8e3bc70b5652af42ff6c32041
     home: https://nexmonyx.com
@@ -1665,7 +1682,7 @@ entries:
   opsdata:
   - apiVersion: v1
     appVersion: v40
-    created: "2024-10-12T05:32:06.268833003Z"
+    created: "2024-10-12T05:32:24.545337821Z"
     description: opsdata.io
     digest: 55a79242a51ed9a23d1c657405cffc2e1643c9adc6c1b3f60e653ce5632b0fc1
     home: https://opsdata.io
@@ -1682,7 +1699,7 @@ entries:
     version: v40
   - apiVersion: v1
     appVersion: v39
-    created: "2024-10-12T05:32:06.268427377Z"
+    created: "2024-10-12T05:32:24.544783429Z"
     description: opsdata.io
     digest: f9feefd7b0e8198d7da5787fe50505ad8eee8ed3fb364968204c680ef0762517
     home: https://opsdata.io
@@ -1699,7 +1716,7 @@ entries:
     version: v39
   - apiVersion: v1
     appVersion: v37
-    created: "2024-10-12T05:32:06.267464165Z"
+    created: "2024-10-12T05:32:24.544396589Z"
     description: opsdata.io
     digest: c79b55b821f0aeb583035c085059600b52dcdbbd973c76d73a6661eb6c8b9e11
     home: https://opsdata.io
@@ -1716,7 +1733,7 @@ entries:
     version: v37
   - apiVersion: v1
     appVersion: v36
-    created: "2024-10-12T05:32:06.266637825Z"
+    created: "2024-10-12T05:32:24.544034996Z"
     description: opsdata.io
     digest: 5bf3a52f58ee80028762054c41070b198ea41445fd681e5738b3c5f21b618a00
     home: https://opsdata.io
@@ -1733,7 +1750,7 @@ entries:
     version: v36
   - apiVersion: v1
     appVersion: v33
-    created: "2024-10-12T05:32:06.265714553Z"
+    created: "2024-10-12T05:32:24.543634281Z"
     description: opsdata.io
     digest: 87d09779b7bc0eabd1a7d70a4a3a2239658a1d98900106fe82fda67a2fac51bb
     home: https://opsdata.io
@@ -1750,7 +1767,7 @@ entries:
     version: v33
   - apiVersion: v1
     appVersion: v32
-    created: "2024-10-12T05:32:06.265344273Z"
+    created: "2024-10-12T05:32:24.543277818Z"
     description: opsdata.io
     digest: c12bffa4a24ef6b1289c4ea5c19b2db28b73a3f11b67622d0e66838c7b339d2a
     home: https://opsdata.io
@@ -1767,7 +1784,7 @@ entries:
     version: v32
   - apiVersion: v1
     appVersion: v31
-    created: "2024-10-12T05:32:06.264989122Z"
+    created: "2024-10-12T05:32:24.542917427Z"
     description: opsdata.io
     digest: ffebe04c5fa455c2b4974849722c3c8e663b3d17382f862bd695037c079948c4
     home: https://opsdata.io
@@ -1784,7 +1801,7 @@ entries:
     version: v31
   - apiVersion: v1
     appVersion: v30
-    created: "2024-10-12T05:32:06.264630744Z"
+    created: "2024-10-12T05:32:24.542559331Z"
     description: opsdata.io
     digest: d32b0221f756e65bc0300717defa7c0e3adda58e4bc5f93d6d2f52eea53a1d09
     home: https://opsdata.io
@@ -1801,7 +1818,7 @@ entries:
     version: v30
   - apiVersion: v1
     appVersion: v29
-    created: "2024-10-12T05:32:06.264273699Z"
+    created: "2024-10-12T05:32:24.542201284Z"
     description: opsdata.io
     digest: 84214ceb8e9c05da5bae8d0bb1bda37c13ca6771cd7f2dcd3ef460c344a416d7
     home: https://opsdata.io
@@ -1818,7 +1835,7 @@ entries:
     version: v29
   - apiVersion: v1
     appVersion: v28
-    created: "2024-10-12T05:32:06.263911734Z"
+    created: "2024-10-12T05:32:24.541832498Z"
     description: opsdata.io
     digest: e0504e067d1fa44635fd6663d1087b7cec678b167db35d731b260e1bd6f2b148
     home: https://opsdata.io
@@ -1835,7 +1852,7 @@ entries:
     version: v28
   - apiVersion: v1
     appVersion: v27
-    created: "2024-10-12T05:32:06.263504215Z"
+    created: "2024-10-12T05:32:24.541465936Z"
     description: opsdata.io
     digest: 239f4fb751bbe06cd4ddcfc3468807d823f98bf3d3de1069c9ce60bd162b0f38
     home: https://opsdata.io
@@ -1852,7 +1869,7 @@ entries:
     version: v27
   - apiVersion: v1
     appVersion: v26
-    created: "2024-10-12T05:32:06.263143994Z"
+    created: "2024-10-12T05:32:24.541107169Z"
     description: opsdata.io
     digest: e53ecd50236e19eab1d0a4264af6d31ac8b49a4efd87f074dfabea4881f93523
     home: https://opsdata.io
@@ -1869,7 +1886,7 @@ entries:
     version: v26
   - apiVersion: v1
     appVersion: v25
-    created: "2024-10-12T05:32:06.262775147Z"
+    created: "2024-10-12T05:32:24.540743081Z"
     description: opsdata.io
     digest: 85426ced031bc700cd4356011798d7b187e543f4d5904d649f362222840756ec
     home: https://opsdata.io
@@ -1886,7 +1903,7 @@ entries:
     version: v25
   - apiVersion: v1
     appVersion: v24
-    created: "2024-10-12T05:32:06.262371485Z"
+    created: "2024-10-12T05:32:24.540376248Z"
     description: opsdata.io
     digest: 575a697c49afcf9c8650b955a20df9bd1f624f726441a8bfe5c339d59351ec52
     home: https://opsdata.io
@@ -1903,7 +1920,7 @@ entries:
     version: v24
   - apiVersion: v1
     appVersion: v23
-    created: "2024-10-12T05:32:06.262005363Z"
+    created: "2024-10-12T05:32:24.540004507Z"
     description: opsdata.io
     digest: e617f55ed5f6b6d644d5189be86b69a085547c5b50c49e99ab8a88ee255479e5
     home: https://opsdata.io
@@ -1920,7 +1937,7 @@ entries:
     version: v23
   - apiVersion: v1
     appVersion: v20
-    created: "2024-10-12T05:32:06.261645673Z"
+    created: "2024-10-12T05:32:24.539571962Z"
     description: opsdata.io
     digest: a981dcf45a3d63329d08b71b1a41ee8139f9912e3b3c90e30a888addc1471d59
     home: https://opsdata.io
@@ -1937,7 +1954,7 @@ entries:
     version: v20
   - apiVersion: v1
     appVersion: v19
-    created: "2024-10-12T05:32:06.261286633Z"
+    created: "2024-10-12T05:32:24.538798553Z"
     description: opsdata.io
     digest: 3cce0172add48dcfee2030c558950adbc868a9baa41e71c768ab7be77e33ad0a
     home: https://opsdata.io
@@ -1954,7 +1971,7 @@ entries:
     version: v19
   - apiVersion: v1
     appVersion: v18
-    created: "2024-10-12T05:32:06.260909391Z"
+    created: "2024-10-12T05:32:24.537984007Z"
     description: opsdata.io
     digest: 7d06babdd6d80726c5ed0e9924e2fa631f951d3f697d2f1ea755cb8cfe54c14a
     home: https://opsdata.io
@@ -1971,7 +1988,7 @@ entries:
     version: v18
   - apiVersion: v1
     appVersion: v17
-    created: "2024-10-12T05:32:06.260540534Z"
+    created: "2024-10-12T05:32:24.537090091Z"
     description: opsdata.io
     digest: b1d8a0a699236275688cd428835bf7e9bc7bf8af11d003305cd67149a5ee2a47
     home: https://opsdata.io
@@ -1988,7 +2005,7 @@ entries:
     version: v17
   - apiVersion: v1
     appVersion: v16
-    created: "2024-10-12T05:32:06.260153793Z"
+    created: "2024-10-12T05:32:24.536551208Z"
     description: opsdata.io
     digest: 698b175b1396d3aa68d5073d90c8cf23f30fea1aa2b683529c5dc8feb0790237
     home: https://opsdata.io
@@ -2005,7 +2022,7 @@ entries:
     version: v16
   - apiVersion: v1
     appVersion: v15
-    created: "2024-10-12T05:32:06.2590357Z"
+    created: "2024-10-12T05:32:24.536178415Z"
     description: opsdata.io
     digest: 19fa12b91fb464bcd367192e832b12601572d90169a4c96050381ad087dcff11
     home: https://opsdata.io
@@ -2022,7 +2039,7 @@ entries:
     version: v15
   - apiVersion: v1
     appVersion: v14
-    created: "2024-10-12T05:32:06.258216694Z"
+    created: "2024-10-12T05:32:24.535747152Z"
     description: opsdata.io
     digest: 5f7df5b4cecb07a6ca69ce680104e9191c34d686f006bc659bacc9c844f8f202
     home: https://opsdata.io
@@ -2039,7 +2056,7 @@ entries:
     version: v14
   - apiVersion: v1
     appVersion: v13
-    created: "2024-10-12T05:32:06.257545506Z"
+    created: "2024-10-12T05:32:24.535240339Z"
     description: opsdata.io
     digest: 4cfd808569354ac263394963712df69aa3299eadf1c9e1d07c4fe8cf73dcac3b
     home: https://opsdata.io
@@ -2056,7 +2073,7 @@ entries:
     version: v13
   - apiVersion: v1
     appVersion: v11
-    created: "2024-10-12T05:32:06.257184864Z"
+    created: "2024-10-12T05:32:24.534682912Z"
     description: opsdata.io
     digest: 408cd7e2febee5a346035856ddf995a800e4087682372afad85a5207d02152c3
     home: https://opsdata.io
@@ -2073,7 +2090,7 @@ entries:
     version: v11
   - apiVersion: v1
     appVersion: v10
-    created: "2024-10-12T05:32:06.25682313Z"
+    created: "2024-10-12T05:32:24.534317081Z"
     description: opsdata.io
     digest: 7d0fd93c7cbb1f1856b25c3502b885b87327d250899fcacc61ff33eafa437bde
     home: https://opsdata.io
@@ -2090,7 +2107,7 @@ entries:
     version: v10
   - apiVersion: v1
     appVersion: v9
-    created: "2024-10-12T05:32:06.269165382Z"
+    created: "2024-10-12T05:32:24.546073326Z"
     description: opsdata.io
     digest: 80feb1b2373d608182d209c0055b59b6a84d570095158c370c1d22fc3af00b74
     home: https://opsdata.io
@@ -2108,7 +2125,7 @@ entries:
   powerdns-admin-proxy:
   - apiVersion: v2
     appVersion: "5"
-    created: "2024-10-12T05:32:06.269735775Z"
+    created: "2024-10-12T05:32:24.547523114Z"
     description: A Helm chart for Kubernetes
     digest: 6e9e3940e0ffb7122d18bebb248177856dd3e3bb062e61cd08068431ea44c634
     name: powerdns-admin-proxy
@@ -2118,7 +2135,7 @@ entries:
     version: 0.1.5
   - apiVersion: v2
     appVersion: "4"
-    created: "2024-10-12T05:32:06.269457286Z"
+    created: "2024-10-12T05:32:24.546713648Z"
     description: A Helm chart for Kubernetes
     digest: ad01796a6db4bfba74b8d2540196249549ad29841d7228763608e13dd4e1dc31
     name: powerdns-admin-proxy
@@ -2129,7 +2146,7 @@ entries:
   prometheus-tunnel:
   - apiVersion: v1
     appVersion: v16
-    created: "2024-10-12T05:32:06.271677623Z"
+    created: "2024-10-12T05:32:24.549592004Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: 6e2842dffa0e2339d072037edf83dad3abf5957559d43be0d64a1c8e602785d0
@@ -2149,7 +2166,7 @@ entries:
     version: v16
   - apiVersion: v1
     appVersion: v14
-    created: "2024-10-12T05:32:06.271329624Z"
+    created: "2024-10-12T05:32:24.54927298Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: 1e580fbf0a4559f0af752a3957dab9bc126ded613539c745ff424ad0def14a5e
@@ -2169,7 +2186,7 @@ entries:
     version: v14
   - apiVersion: v1
     appVersion: v13
-    created: "2024-10-12T05:32:06.271013566Z"
+    created: "2024-10-12T05:32:24.548947865Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: 92f614b89a49666e355f8a9b04767317b330193d5f0bc42a0b4176c4daeb6520
@@ -2189,7 +2206,7 @@ entries:
     version: v13
   - apiVersion: v1
     appVersion: v12
-    created: "2024-10-12T05:32:06.270695262Z"
+    created: "2024-10-12T05:32:24.548625014Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: f1e5346352cdca3e2e7352a7f4ce2844f7cb29e8a51a49d1313304198146074f
@@ -2209,7 +2226,7 @@ entries:
     version: v12
   - apiVersion: v1
     appVersion: v11
-    created: "2024-10-12T05:32:06.270380235Z"
+    created: "2024-10-12T05:32:24.548297645Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: c660b90e06386e21066e4b00b2c487a1ef5fe891c569760222d850c564811bdb
@@ -2229,7 +2246,7 @@ entries:
     version: v11
   - apiVersion: v1
     appVersion: v10
-    created: "2024-10-12T05:32:06.27006046Z"
+    created: "2024-10-12T05:32:24.547962321Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: ce6c12122454b74ec226440268a0ca963c90f3077c9eef8017f35f70d9cc1e28
@@ -2249,7 +2266,7 @@ entries:
     version: v10
   - apiVersion: v1
     appVersion: v9
-    created: "2024-10-12T05:32:06.27265314Z"
+    created: "2024-10-12T05:32:24.550527013Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: 68f69fc36e0cf8c4c9e79f2297d078c14b0669c3caf1212d96cd5625ddefea93
@@ -2269,7 +2286,7 @@ entries:
     version: v9
   - apiVersion: v1
     appVersion: v8
-    created: "2024-10-12T05:32:06.272308007Z"
+    created: "2024-10-12T05:32:24.550216476Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: 764d57a1cd8fb905ea6552a8fbfff50d44e23114c704da907866dd43ddcbd162
@@ -2289,7 +2306,7 @@ entries:
     version: v8
   - apiVersion: v1
     appVersion: v7
-    created: "2024-10-12T05:32:06.271994233Z"
+    created: "2024-10-12T05:32:24.549900157Z"
     description: prometheus-tunnel is a tool tunneling prometheus metrics from a kubernetes
       cluster to a remote exporter.
     digest: 7598f01423f5e8409345686b7e98c8139c8566955dcb4b3a8885da17e0773e8e
@@ -2310,7 +2327,7 @@ entries:
   site-monitor:
   - apiVersion: v1
     appVersion: 1.1.12
-    created: "2024-10-12T05:32:06.276801028Z"
+    created: "2024-10-12T05:32:24.553142861Z"
     description: site-monitor is a tool monitoring the status of a website and the
       HTTP access path.
     digest: 8e40f6c36ed06ce4b55be0a1530c5548bd3432120e365750bfdc8b89545b7fb0
@@ -2330,7 +2347,7 @@ entries:
     version: 1.1.12
   - apiVersion: v1
     appVersion: 1.1.11
-    created: "2024-10-12T05:32:06.276346422Z"
+    created: "2024-10-12T05:32:24.552680891Z"
     description: site-monitor is a tool monitoring the status of a website and the
       HTTP access path.
     digest: 7e613c3e2ed30758dbd40eb6a25ecd134d333a086718836a174e421d304a9fbf
@@ -2350,7 +2367,7 @@ entries:
     version: 1.1.11
   - apiVersion: v1
     appVersion: 1.1.10
-    created: "2024-10-12T05:32:06.275121761Z"
+    created: "2024-10-12T05:32:24.552250511Z"
     description: site-monitor is a tool monitoring the status of a website and the
       HTTP access path.
     digest: b8255089bfeb7f6a12fbf5efb5268ae83ab6b3e4007603f29b1167277d07c132
@@ -2370,7 +2387,7 @@ entries:
     version: 1.1.10
   - apiVersion: v1
     appVersion: 1.1.9
-    created: "2024-10-12T05:32:06.277735259Z"
+    created: "2024-10-12T05:32:24.554853366Z"
     description: site-monitor is a tool monitoring the status of a website and the
       HTTP access path.
     digest: 9c02534e7b53e9ce0341fa4ae1236340466f3a1a27b0b99937b5c71d037e6af7
@@ -2390,7 +2407,7 @@ entries:
     version: 1.1.9
   - apiVersion: v1
     appVersion: 1.1.8
-    created: "2024-10-12T05:32:06.277270423Z"
+    created: "2024-10-12T05:32:24.553606313Z"
     description: site-monitor is a tool monitoring the status of a website and the
       HTTP access path.
     digest: c5f938e63d17d48899ae8a0bec061db70977e770f4dad424ae5317926b111785
@@ -2410,7 +2427,7 @@ entries:
     version: 1.1.8
   - apiVersion: v1
     appVersion: 1.0.7
-    created: "2024-10-12T05:32:06.273908599Z"
+    created: "2024-10-12T05:32:24.55177187Z"
     description: site-monitor is a tool monitoring the status of a website and the
       HTTP access path.
     digest: 407bb7a230de768ff5cf4a8be6968f76d00af3383fbbb765f07ecf9ab5da3b87
@@ -2430,7 +2447,7 @@ entries:
     version: 1.0.7
   - apiVersion: v1
     appVersion: 1.0.6
-    created: "2024-10-12T05:32:06.273495219Z"
+    created: "2024-10-12T05:32:24.551356337Z"
     description: site-monitor is a tool monitoring the status of a website and the
       HTTP access path.
     digest: fd44132df0196f7c68b714d3d5c42eb7bbe8bb331b05abff7a0d9c25f4b97030
@@ -2450,7 +2467,7 @@ entries:
     version: 1.0.6
   - apiVersion: v1
     appVersion: 1.0.5
-    created: "2024-10-12T05:32:06.273074175Z"
+    created: "2024-10-12T05:32:24.550942326Z"
     description: site-monitor is a tool monitoring the status of a website and the
       HTTP access path.
     digest: 1c654050a12497cef0f3278fe4ce8ecba77e30bcd0b9077d9e390da1bbcc8e4f
@@ -2471,7 +2488,7 @@ entries:
   systems-information:
   - apiVersion: v1
     appVersion: 0.0.1-rc3
-    created: "2024-10-12T05:32:06.278019619Z"
+    created: "2024-10-12T05:32:24.555458783Z"
     description: Rancher Systems Summary Report
     digest: e1b15ecbadf97a3655a01ceb7a8019e72e7883dd844657ddf78fe95b969f631a
     home: https://support.rancher.com
@@ -2492,7 +2509,7 @@ entries:
   uptime-kuma:
   - apiVersion: v2
     appVersion: v2.6
-    created: "2024-10-12T05:32:06.283224838Z"
+    created: "2024-10-12T05:32:24.560603907Z"
     description: A Helm chart Uptime Kuma
     digest: bba2e1ac93228fafc4c2b1251529739788b16ae6a7f16dfbdce2f859244c48f8
     home: https://github.com/SupportTools/uptime-kuma
@@ -2512,7 +2529,7 @@ entries:
     version: v2.6
   - apiVersion: v2
     appVersion: v2.5
-    created: "2024-10-12T05:32:06.282194406Z"
+    created: "2024-10-12T05:32:24.56018641Z"
     description: A Helm chart Uptime Kuma
     digest: eab052c4972288d17c3b3e0aede12fdc4fb563f50a57f52128fce56af15ee7f2
     home: https://github.com/SupportTools/uptime-kuma
@@ -2532,7 +2549,7 @@ entries:
     version: v2.5
   - apiVersion: v2
     appVersion: v2.4
-    created: "2024-10-12T05:32:06.281783701Z"
+    created: "2024-10-12T05:32:24.559731724Z"
     description: A Helm chart Uptime Kuma
     digest: 550b6e5b28e8d113ca6e542bc1bce555167840dd818d42dc0e118d36ea4dea5b
     home: https://github.com/SupportTools/uptime-kuma
@@ -2552,7 +2569,7 @@ entries:
     version: v2.4
   - apiVersion: v2
     appVersion: v2.3
-    created: "2024-10-12T05:32:06.281386121Z"
+    created: "2024-10-12T05:32:24.559333874Z"
     description: A Helm chart Uptime Kuma
     digest: 6ac486a04bff6c49fb05765f0aba3478835e5ed66f85728d6544dc942ecf9e22
     home: https://github.com/SupportTools/uptime-kuma
@@ -2572,7 +2589,7 @@ entries:
     version: v2.3
   - apiVersion: v2
     appVersion: "85"
-    created: "2024-10-12T05:32:06.280995453Z"
+    created: "2024-10-12T05:32:24.558942555Z"
     description: A Helm chart Uptime Kuma
     digest: 9e5cdcb693b95c47e727c3074945aac43952ddcde516b7f7144a0c0c00c8d6ae
     home: https://github.com/SupportTools/uptime-kuma
@@ -2592,7 +2609,7 @@ entries:
     version: v1.7
   - apiVersion: v2
     appVersion: "83"
-    created: "2024-10-12T05:32:06.280613982Z"
+    created: "2024-10-12T05:32:24.558560404Z"
     description: A Helm chart Uptime Kuma
     digest: 8dfa74ff3c43a448134ea398d32547880123e613d02c2d39dc8f48ab75e6d25d
     home: https://github.com/SupportTools/uptime-kuma
@@ -2612,7 +2629,7 @@ entries:
     version: v1.6
   - apiVersion: v2
     appVersion: "81"
-    created: "2024-10-12T05:32:06.280231079Z"
+    created: "2024-10-12T05:32:24.558177031Z"
     description: A Helm chart Uptime Kuma
     digest: 671004bc4cd6833f711c88e74d13580acc6f2716d35bef24164f5ce0b41c5c8d
     home: https://github.com/SupportTools/uptime-kuma
@@ -2632,7 +2649,7 @@ entries:
     version: v1.5
   - apiVersion: v2
     appVersion: "79"
-    created: "2024-10-12T05:32:06.279844519Z"
+    created: "2024-10-12T05:32:24.557790872Z"
     description: A Helm chart Uptime Kuma
     digest: e85a5916104a40c7a30651c4c665198a08d728c96a7c892caf1f4d07864b6dc0
     home: https://github.com/SupportTools/uptime-kuma
@@ -2652,7 +2669,7 @@ entries:
     version: v1.4
   - apiVersion: v2
     appVersion: "77"
-    created: "2024-10-12T05:32:06.279423424Z"
+    created: "2024-10-12T05:32:24.557400897Z"
     description: A Helm chart Uptime Kuma
     digest: 1a7a1097ac1228e7416493df84a19b0a9842a7add306b691cf97274477c6d2a2
     home: https://github.com/SupportTools/uptime-kuma
@@ -2672,7 +2689,7 @@ entries:
     version: v1.3
   - apiVersion: v2
     appVersion: "75"
-    created: "2024-10-12T05:32:06.279044608Z"
+    created: "2024-10-12T05:32:24.556963483Z"
     description: A Helm chart Uptime Kuma
     digest: 8c32f57365adea13b54c73a845734b6d56aff22e05604038e63dd6b67e25d27c
     home: https://github.com/SupportTools/uptime-kuma
@@ -2692,7 +2709,7 @@ entries:
     version: v1.2
   - apiVersion: v2
     appVersion: "65"
-    created: "2024-10-12T05:32:06.278660292Z"
+    created: "2024-10-12T05:32:24.556571414Z"
     description: A Helm chart Uptime Kuma
     digest: b86168ffa3e15aef3f51e897adab106985b9b3fdf68bbe57d21b86f317bed87b
     home: https://github.com/SupportTools/uptime-kuma
@@ -2712,7 +2729,7 @@ entries:
     version: v1.1
   - apiVersion: v2
     appVersion: "61"
-    created: "2024-10-12T05:32:06.278266358Z"
+    created: "2024-10-12T05:32:24.556158084Z"
     description: A Helm chart Uptime Kuma
     digest: 4a6769b9638c2b201de1b03080b0ae2674ec771cbc464df6d7f49becf4722c01
     home: https://github.com/SupportTools/uptime-kuma
@@ -2734,7 +2751,7 @@ entries:
   website:
   - apiVersion: v2
     appVersion: v141
-    created: "2024-10-12T05:32:06.313138478Z"
+    created: "2024-10-12T05:32:24.590209483Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -2758,7 +2775,7 @@ entries:
     version: v141
   - apiVersion: v2
     appVersion: v140
-    created: "2024-10-12T05:32:06.312498926Z"
+    created: "2024-10-12T05:32:24.589610528Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -2782,7 +2799,7 @@ entries:
     version: v140
   - apiVersion: v2
     appVersion: v139
-    created: "2024-10-12T05:32:06.309547267Z"
+    created: "2024-10-12T05:32:24.588177471Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -2806,7 +2823,7 @@ entries:
     version: v139
   - apiVersion: v2
     appVersion: v138
-    created: "2024-10-12T05:32:06.308745003Z"
+    created: "2024-10-12T05:32:24.587513907Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -2830,7 +2847,7 @@ entries:
     version: v138
   - apiVersion: v2
     appVersion: v137
-    created: "2024-10-12T05:32:06.308146087Z"
+    created: "2024-10-12T05:32:24.586200884Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -2854,7 +2871,7 @@ entries:
     version: v137
   - apiVersion: v2
     appVersion: v136
-    created: "2024-10-12T05:32:06.307475667Z"
+    created: "2024-10-12T05:32:24.584487248Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -2878,7 +2895,7 @@ entries:
     version: v136
   - apiVersion: v2
     appVersion: v135
-    created: "2024-10-12T05:32:06.306884867Z"
+    created: "2024-10-12T05:32:24.583885438Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -2902,7 +2919,7 @@ entries:
     version: v135
   - apiVersion: v2
     appVersion: v134
-    created: "2024-10-12T05:32:06.306288055Z"
+    created: "2024-10-12T05:32:24.583259203Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -2926,7 +2943,7 @@ entries:
     version: v134
   - apiVersion: v2
     appVersion: v132
-    created: "2024-10-12T05:32:06.305688398Z"
+    created: "2024-10-12T05:32:24.582662532Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -2950,7 +2967,7 @@ entries:
     version: v132
   - apiVersion: v2
     appVersion: v127
-    created: "2024-10-12T05:32:06.304216967Z"
+    created: "2024-10-12T05:32:24.581264842Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -2974,7 +2991,7 @@ entries:
     version: v127
   - apiVersion: v2
     appVersion: v126
-    created: "2024-10-12T05:32:06.303573177Z"
+    created: "2024-10-12T05:32:24.580671027Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -2998,7 +3015,7 @@ entries:
     version: v126
   - apiVersion: v2
     appVersion: v125
-    created: "2024-10-12T05:32:06.302953162Z"
+    created: "2024-10-12T05:32:24.580065931Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3022,7 +3039,7 @@ entries:
     version: v125
   - apiVersion: v2
     appVersion: v124
-    created: "2024-10-12T05:32:06.301472726Z"
+    created: "2024-10-12T05:32:24.57942078Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3046,7 +3063,7 @@ entries:
     version: v124
   - apiVersion: v2
     appVersion: v123
-    created: "2024-10-12T05:32:06.300094927Z"
+    created: "2024-10-12T05:32:24.578815705Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3070,7 +3087,7 @@ entries:
     version: v123
   - apiVersion: v2
     appVersion: v122
-    created: "2024-10-12T05:32:06.299247638Z"
+    created: "2024-10-12T05:32:24.578194799Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3094,7 +3111,7 @@ entries:
     version: v122
   - apiVersion: v2
     appVersion: v121
-    created: "2024-10-12T05:32:06.298660134Z"
+    created: "2024-10-12T05:32:24.576936104Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3118,7 +3135,7 @@ entries:
     version: v121
   - apiVersion: v2
     appVersion: v120
-    created: "2024-10-12T05:32:06.298070295Z"
+    created: "2024-10-12T05:32:24.575472484Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3142,7 +3159,7 @@ entries:
     version: v120
   - apiVersion: v2
     appVersion: v119
-    created: "2024-10-12T05:32:06.296673232Z"
+    created: "2024-10-12T05:32:24.573886923Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3166,7 +3183,7 @@ entries:
     version: v119
   - apiVersion: v2
     appVersion: v117
-    created: "2024-10-12T05:32:06.296074496Z"
+    created: "2024-10-12T05:32:24.57328848Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3190,7 +3207,7 @@ entries:
     version: v117
   - apiVersion: v2
     appVersion: v113
-    created: "2024-10-12T05:32:06.295436477Z"
+    created: "2024-10-12T05:32:24.572692611Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3214,7 +3231,7 @@ entries:
     version: v113
   - apiVersion: v2
     appVersion: v112
-    created: "2024-10-12T05:32:06.294830949Z"
+    created: "2024-10-12T05:32:24.572076425Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3238,7 +3255,7 @@ entries:
     version: v112
   - apiVersion: v2
     appVersion: v111
-    created: "2024-10-12T05:32:06.294215102Z"
+    created: "2024-10-12T05:32:24.571446352Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3262,7 +3279,7 @@ entries:
     version: v111
   - apiVersion: v2
     appVersion: v110
-    created: "2024-10-12T05:32:06.293043431Z"
+    created: "2024-10-12T05:32:24.570851295Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3286,7 +3303,7 @@ entries:
     version: v110
   - apiVersion: v2
     appVersion: v109
-    created: "2024-10-12T05:32:06.290573958Z"
+    created: "2024-10-12T05:32:24.569437174Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3310,7 +3327,7 @@ entries:
     version: v109
   - apiVersion: v2
     appVersion: v108
-    created: "2024-10-12T05:32:06.28998458Z"
+    created: "2024-10-12T05:32:24.568823522Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3334,7 +3351,7 @@ entries:
     version: v108
   - apiVersion: v2
     appVersion: v107
-    created: "2024-10-12T05:32:06.289393549Z"
+    created: "2024-10-12T05:32:24.568165698Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3358,7 +3375,7 @@ entries:
     version: v107
   - apiVersion: v2
     appVersion: v106
-    created: "2024-10-12T05:32:06.288798981Z"
+    created: "2024-10-12T05:32:24.567230628Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3382,7 +3399,7 @@ entries:
     version: v106
   - apiVersion: v2
     appVersion: v105
-    created: "2024-10-12T05:32:06.288201548Z"
+    created: "2024-10-12T05:32:24.566347645Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3406,7 +3423,7 @@ entries:
     version: v105
   - apiVersion: v2
     appVersion: v104
-    created: "2024-10-12T05:32:06.287562908Z"
+    created: "2024-10-12T05:32:24.5655389Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3430,7 +3447,7 @@ entries:
     version: v104
   - apiVersion: v2
     appVersion: v103
-    created: "2024-10-12T05:32:06.286969182Z"
+    created: "2024-10-12T05:32:24.56430965Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3454,7 +3471,7 @@ entries:
     version: v103
   - apiVersion: v2
     appVersion: v102
-    created: "2024-10-12T05:32:06.286371428Z"
+    created: "2024-10-12T05:32:24.562836692Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3478,7 +3495,7 @@ entries:
     version: v102
   - apiVersion: v2
     appVersion: v100
-    created: "2024-10-12T05:32:06.285762544Z"
+    created: "2024-10-12T05:32:24.562028227Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3502,7 +3519,7 @@ entries:
     version: v100
   - apiVersion: v2
     appVersion: v99
-    created: "2024-10-12T05:32:06.380490019Z"
+    created: "2024-10-12T05:32:24.674906503Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3526,7 +3543,7 @@ entries:
     version: v99
   - apiVersion: v2
     appVersion: v98
-    created: "2024-10-12T05:32:06.379891975Z"
+    created: "2024-10-12T05:32:24.673685575Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3550,7 +3567,7 @@ entries:
     version: v98
   - apiVersion: v2
     appVersion: v97
-    created: "2024-10-12T05:32:06.379258344Z"
+    created: "2024-10-12T05:32:24.673091891Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3574,7 +3591,7 @@ entries:
     version: v97
   - apiVersion: v2
     appVersion: v96
-    created: "2024-10-12T05:32:06.378660871Z"
+    created: "2024-10-12T05:32:24.672495411Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3598,7 +3615,7 @@ entries:
     version: v96
   - apiVersion: v2
     appVersion: v95
-    created: "2024-10-12T05:32:06.378051987Z"
+    created: "2024-10-12T05:32:24.671885457Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3622,7 +3639,7 @@ entries:
     version: v95
   - apiVersion: v2
     appVersion: v94
-    created: "2024-10-12T05:32:06.377435088Z"
+    created: "2024-10-12T05:32:24.671255044Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3646,7 +3663,7 @@ entries:
     version: v94
   - apiVersion: v2
     appVersion: v93
-    created: "2024-10-12T05:32:06.37609341Z"
+    created: "2024-10-12T05:32:24.670659597Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3670,7 +3687,7 @@ entries:
     version: v93
   - apiVersion: v2
     appVersion: v92
-    created: "2024-10-12T05:32:06.374552217Z"
+    created: "2024-10-12T05:32:24.670067596Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3694,7 +3711,7 @@ entries:
     version: v92
   - apiVersion: v2
     appVersion: v91
-    created: "2024-10-12T05:32:06.373956597Z"
+    created: "2024-10-12T05:32:24.669463983Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3718,7 +3735,7 @@ entries:
     version: v91
   - apiVersion: v2
     appVersion: v90
-    created: "2024-10-12T05:32:06.373349656Z"
+    created: "2024-10-12T05:32:24.668848729Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3742,7 +3759,7 @@ entries:
     version: v90
   - apiVersion: v2
     appVersion: v89
-    created: "2024-10-12T05:32:06.371905908Z"
+    created: "2024-10-12T05:32:24.666256384Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3766,7 +3783,7 @@ entries:
     version: v89
   - apiVersion: v2
     appVersion: v88
-    created: "2024-10-12T05:32:06.37127355Z"
+    created: "2024-10-12T05:32:24.664624762Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3790,7 +3807,7 @@ entries:
     version: v88
   - apiVersion: v2
     appVersion: v87
-    created: "2024-10-12T05:32:06.370671148Z"
+    created: "2024-10-12T05:32:24.664024115Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3814,7 +3831,7 @@ entries:
     version: v87
   - apiVersion: v2
     appVersion: v86
-    created: "2024-10-12T05:32:06.370068565Z"
+    created: "2024-10-12T05:32:24.663385388Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3838,7 +3855,7 @@ entries:
     version: v86
   - apiVersion: v2
     appVersion: v85
-    created: "2024-10-12T05:32:06.369460132Z"
+    created: "2024-10-12T05:32:24.66279514Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3862,7 +3879,7 @@ entries:
     version: v85
   - apiVersion: v2
     appVersion: v84
-    created: "2024-10-12T05:32:06.368829066Z"
+    created: "2024-10-12T05:32:24.662195284Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3886,7 +3903,7 @@ entries:
     version: v84
   - apiVersion: v2
     appVersion: v83
-    created: "2024-10-12T05:32:06.3676501Z"
+    created: "2024-10-12T05:32:24.661584198Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3910,7 +3927,7 @@ entries:
     version: v83
   - apiVersion: v2
     appVersion: v82
-    created: "2024-10-12T05:32:06.365165388Z"
+    created: "2024-10-12T05:32:24.660991084Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3934,7 +3951,7 @@ entries:
     version: v82
   - apiVersion: v2
     appVersion: v81
-    created: "2024-10-12T05:32:06.363549249Z"
+    created: "2024-10-12T05:32:24.660393283Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3958,7 +3975,7 @@ entries:
     version: v81
   - apiVersion: v2
     appVersion: v80
-    created: "2024-10-12T05:32:06.362907934Z"
+    created: "2024-10-12T05:32:24.659761017Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -3982,7 +3999,7 @@ entries:
     version: v80
   - apiVersion: v2
     appVersion: v79
-    created: "2024-10-12T05:32:06.361507825Z"
+    created: "2024-10-12T05:32:24.658321089Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4006,7 +4023,7 @@ entries:
     version: v79
   - apiVersion: v2
     appVersion: v78
-    created: "2024-10-12T05:32:06.360917356Z"
+    created: "2024-10-12T05:32:24.657664307Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4030,7 +4047,7 @@ entries:
     version: v78
   - apiVersion: v2
     appVersion: v77
-    created: "2024-10-12T05:32:06.360324321Z"
+    created: "2024-10-12T05:32:24.65703131Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4054,7 +4071,7 @@ entries:
     version: v77
   - apiVersion: v2
     appVersion: v76
-    created: "2024-10-12T05:32:06.359718963Z"
+    created: "2024-10-12T05:32:24.654858849Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4078,7 +4095,7 @@ entries:
     version: v76
   - apiVersion: v2
     appVersion: v75
-    created: "2024-10-12T05:32:06.359083869Z"
+    created: "2024-10-12T05:32:24.652939689Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4102,7 +4119,7 @@ entries:
     version: v75
   - apiVersion: v2
     appVersion: v74
-    created: "2024-10-12T05:32:06.358485785Z"
+    created: "2024-10-12T05:32:24.650678864Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4126,7 +4143,7 @@ entries:
     version: v74
   - apiVersion: v2
     appVersion: v73
-    created: "2024-10-12T05:32:06.357883193Z"
+    created: "2024-10-12T05:32:24.648667484Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4150,7 +4167,7 @@ entries:
     version: v73
   - apiVersion: v2
     appVersion: v72
-    created: "2024-10-12T05:32:06.35726461Z"
+    created: "2024-10-12T05:32:24.647375398Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4174,7 +4191,7 @@ entries:
     version: v72
   - apiVersion: v2
     appVersion: v71
-    created: "2024-10-12T05:32:06.356059363Z"
+    created: "2024-10-12T05:32:24.64610766Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4198,7 +4215,7 @@ entries:
     version: v71
   - apiVersion: v2
     appVersion: v70
-    created: "2024-10-12T05:32:06.354598663Z"
+    created: "2024-10-12T05:32:24.644848007Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4222,7 +4239,7 @@ entries:
     version: v70
   - apiVersion: v2
     appVersion: v69
-    created: "2024-10-12T05:32:06.353227329Z"
+    created: "2024-10-12T05:32:24.642385567Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4246,7 +4263,7 @@ entries:
     version: v69
   - apiVersion: v2
     appVersion: v68
-    created: "2024-10-12T05:32:06.352608445Z"
+    created: "2024-10-12T05:32:24.64117734Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4270,7 +4287,7 @@ entries:
     version: v68
   - apiVersion: v2
     appVersion: v67
-    created: "2024-10-12T05:32:06.352012626Z"
+    created: "2024-10-12T05:32:24.639923247Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4294,7 +4311,7 @@ entries:
     version: v67
   - apiVersion: v2
     appVersion: v66
-    created: "2024-10-12T05:32:06.35138157Z"
+    created: "2024-10-12T05:32:24.638700031Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4318,7 +4335,7 @@ entries:
     version: v66
   - apiVersion: v2
     appVersion: v64
-    created: "2024-10-12T05:32:06.350787172Z"
+    created: "2024-10-12T05:32:24.637533049Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4342,7 +4359,7 @@ entries:
     version: v64
   - apiVersion: v2
     appVersion: v63
-    created: "2024-10-12T05:32:06.35019558Z"
+    created: "2024-10-12T05:32:24.636279657Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4366,7 +4383,7 @@ entries:
     version: v63
   - apiVersion: v2
     appVersion: v62
-    created: "2024-10-12T05:32:06.349597536Z"
+    created: "2024-10-12T05:32:24.635059216Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4390,7 +4407,7 @@ entries:
     version: v62
   - apiVersion: v2
     appVersion: v61
-    created: "2024-10-12T05:32:06.348997568Z"
+    created: "2024-10-12T05:32:24.633805794Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4414,7 +4431,7 @@ entries:
     version: v61
   - apiVersion: v2
     appVersion: v60
-    created: "2024-10-12T05:32:06.348387802Z"
+    created: "2024-10-12T05:32:24.632519661Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4438,7 +4455,7 @@ entries:
     version: v60
   - apiVersion: v2
     appVersion: v59
-    created: "2024-10-12T05:32:06.346056066Z"
+    created: "2024-10-12T05:32:24.628348129Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4462,7 +4479,7 @@ entries:
     version: v59
   - apiVersion: v2
     appVersion: v58
-    created: "2024-10-12T05:32:06.344852105Z"
+    created: "2024-10-12T05:32:24.626514938Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4486,7 +4503,7 @@ entries:
     version: v58
   - apiVersion: v2
     appVersion: v57
-    created: "2024-10-12T05:32:06.344255273Z"
+    created: "2024-10-12T05:32:24.624806689Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4510,7 +4527,7 @@ entries:
     version: v57
   - apiVersion: v2
     appVersion: v56
-    created: "2024-10-12T05:32:06.343651999Z"
+    created: "2024-10-12T05:32:24.623142322Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4534,7 +4551,7 @@ entries:
     version: v56
   - apiVersion: v2
     appVersion: v55
-    created: "2024-10-12T05:32:06.343001537Z"
+    created: "2024-10-12T05:32:24.620190289Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4558,7 +4575,7 @@ entries:
     version: v55
   - apiVersion: v2
     appVersion: v54
-    created: "2024-10-12T05:32:06.342409304Z"
+    created: "2024-10-12T05:32:24.619569093Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4582,7 +4599,7 @@ entries:
     version: v54
   - apiVersion: v2
     appVersion: v53
-    created: "2024-10-12T05:32:06.341816429Z"
+    created: "2024-10-12T05:32:24.618962905Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4606,7 +4623,7 @@ entries:
     version: v53
   - apiVersion: v2
     appVersion: v52
-    created: "2024-10-12T05:32:06.341217774Z"
+    created: "2024-10-12T05:32:24.618372777Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4630,7 +4647,7 @@ entries:
     version: v52
   - apiVersion: v2
     appVersion: v50
-    created: "2024-10-12T05:32:06.340618998Z"
+    created: "2024-10-12T05:32:24.617772871Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4654,7 +4671,7 @@ entries:
     version: v50
   - apiVersion: v2
     appVersion: v49
-    created: "2024-10-12T05:32:06.340014231Z"
+    created: "2024-10-12T05:32:24.6171383Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4678,7 +4695,7 @@ entries:
     version: v49
   - apiVersion: v2
     appVersion: v48
-    created: "2024-10-12T05:32:06.339335897Z"
+    created: "2024-10-12T05:32:24.616542842Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4702,7 +4719,7 @@ entries:
     version: v48
   - apiVersion: v2
     appVersion: v47
-    created: "2024-10-12T05:32:06.338707466Z"
+    created: "2024-10-12T05:32:24.615935362Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4726,7 +4743,7 @@ entries:
     version: v47
   - apiVersion: v2
     appVersion: v46
-    created: "2024-10-12T05:32:06.337044356Z"
+    created: "2024-10-12T05:32:24.615293748Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4750,7 +4767,7 @@ entries:
     version: v46
   - apiVersion: v2
     appVersion: v45
-    created: "2024-10-12T05:32:06.335869529Z"
+    created: "2024-10-12T05:32:24.614685897Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4774,7 +4791,7 @@ entries:
     version: v45
   - apiVersion: v2
     appVersion: v41
-    created: "2024-10-12T05:32:06.335233244Z"
+    created: "2024-10-12T05:32:24.614062918Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4798,7 +4815,7 @@ entries:
     version: v41
   - apiVersion: v2
     appVersion: v40
-    created: "2024-10-12T05:32:06.334642223Z"
+    created: "2024-10-12T05:32:24.612680816Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4822,7 +4839,7 @@ entries:
     version: v40
   - apiVersion: v2
     appVersion: v39
-    created: "2024-10-12T05:32:06.334047084Z"
+    created: "2024-10-12T05:32:24.611189053Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4846,7 +4863,7 @@ entries:
     version: v39
   - apiVersion: v2
     appVersion: v38
-    created: "2024-10-12T05:32:06.333446916Z"
+    created: "2024-10-12T05:32:24.610594707Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4870,7 +4887,7 @@ entries:
     version: v38
   - apiVersion: v2
     appVersion: v37
-    created: "2024-10-12T05:32:06.332800962Z"
+    created: "2024-10-12T05:32:24.610000822Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -4894,7 +4911,7 @@ entries:
     version: v37
   - apiVersion: v2
     appVersion: v34
-    created: "2024-10-12T05:32:06.332192759Z"
+    created: "2024-10-12T05:32:24.609402649Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -4918,7 +4935,7 @@ entries:
     version: v34
   - apiVersion: v2
     appVersion: v33
-    created: "2024-10-12T05:32:06.331346483Z"
+    created: "2024-10-12T05:32:24.608589186Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -4942,7 +4959,7 @@ entries:
     version: v33
   - apiVersion: v2
     appVersion: v32
-    created: "2024-10-12T05:32:06.330526425Z"
+    created: "2024-10-12T05:32:24.607730548Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -4966,7 +4983,7 @@ entries:
     version: v32
   - apiVersion: v2
     appVersion: v31
-    created: "2024-10-12T05:32:06.329620667Z"
+    created: "2024-10-12T05:32:24.606873113Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -4990,7 +5007,7 @@ entries:
     version: v31
   - apiVersion: v2
     appVersion: v30
-    created: "2024-10-12T05:32:06.327134424Z"
+    created: "2024-10-12T05:32:24.606053748Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5014,7 +5031,7 @@ entries:
     version: v30
   - apiVersion: v2
     appVersion: v29
-    created: "2024-10-12T05:32:06.326337359Z"
+    created: "2024-10-12T05:32:24.605220918Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5038,7 +5055,7 @@ entries:
     version: v29
   - apiVersion: v2
     appVersion: v28
-    created: "2024-10-12T05:32:06.325540214Z"
+    created: "2024-10-12T05:32:24.603517899Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5062,7 +5079,7 @@ entries:
     version: v28
   - apiVersion: v2
     appVersion: v27
-    created: "2024-10-12T05:32:06.324730174Z"
+    created: "2024-10-12T05:32:24.601869088Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5086,7 +5103,7 @@ entries:
     version: v27
   - apiVersion: v2
     appVersion: v26
-    created: "2024-10-12T05:32:06.323919935Z"
+    created: "2024-10-12T05:32:24.601054623Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5110,7 +5127,7 @@ entries:
     version: v26
   - apiVersion: v2
     appVersion: v25
-    created: "2024-10-12T05:32:06.323072987Z"
+    created: "2024-10-12T05:32:24.600155038Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5134,7 +5151,7 @@ entries:
     version: v25
   - apiVersion: v2
     appVersion: v24
-    created: "2024-10-12T05:32:06.322234465Z"
+    created: "2024-10-12T05:32:24.599288737Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5158,7 +5175,7 @@ entries:
     version: v24
   - apiVersion: v2
     appVersion: v23
-    created: "2024-10-12T05:32:06.321413786Z"
+    created: "2024-10-12T05:32:24.598483308Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5182,7 +5199,7 @@ entries:
     version: v23
   - apiVersion: v2
     appVersion: v22
-    created: "2024-10-12T05:32:06.320096834Z"
+    created: "2024-10-12T05:32:24.597670526Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5206,7 +5223,7 @@ entries:
     version: v22
   - apiVersion: v2
     appVersion: v21
-    created: "2024-10-12T05:32:06.318063353Z"
+    created: "2024-10-12T05:32:24.596817548Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5230,7 +5247,7 @@ entries:
     version: v21
   - apiVersion: v2
     appVersion: v20
-    created: "2024-10-12T05:32:06.317263663Z"
+    created: "2024-10-12T05:32:24.59594775Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5254,7 +5271,7 @@ entries:
     version: v20
   - apiVersion: v2
     appVersion: v19
-    created: "2024-10-12T05:32:06.316460106Z"
+    created: "2024-10-12T05:32:24.593474859Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5278,7 +5295,7 @@ entries:
     version: v19
   - apiVersion: v2
     appVersion: v18
-    created: "2024-10-12T05:32:06.315632444Z"
+    created: "2024-10-12T05:32:24.59266941Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5302,7 +5319,7 @@ entries:
     version: v18
   - apiVersion: v2
     appVersion: v17
-    created: "2024-10-12T05:32:06.314789223Z"
+    created: "2024-10-12T05:32:24.591849464Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5326,7 +5343,7 @@ entries:
     version: v17
   - apiVersion: v2
     appVersion: v15
-    created: "2024-10-12T05:32:06.313954438Z"
+    created: "2024-10-12T05:32:24.591015142Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5350,7 +5367,7 @@ entries:
     version: v15
   - apiVersion: v2
     appVersion: v14
-    created: "2024-10-12T05:32:06.311865406Z"
+    created: "2024-10-12T05:32:24.589005753Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5374,7 +5391,7 @@ entries:
     version: v14
   - apiVersion: v2
     appVersion: v13
-    created: "2024-10-12T05:32:06.305074514Z"
+    created: "2024-10-12T05:32:24.582068457Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5398,7 +5415,7 @@ entries:
     version: v13
   - apiVersion: v2
     appVersion: v12
-    created: "2024-10-12T05:32:06.297475677Z"
+    created: "2024-10-12T05:32:24.574706579Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5422,7 +5439,7 @@ entries:
     version: v12
   - apiVersion: v2
     appVersion: v11
-    created: "2024-10-12T05:32:06.291377886Z"
+    created: "2024-10-12T05:32:24.570254314Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5446,7 +5463,7 @@ entries:
     version: v11
   - apiVersion: v2
     appVersion: v10
-    created: "2024-10-12T05:32:06.285125607Z"
+    created: "2024-10-12T05:32:24.561425275Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5470,7 +5487,7 @@ entries:
     version: v10
   - apiVersion: v2
     appVersion: v9
-    created: "2024-10-12T05:32:06.372719594Z"
+    created: "2024-10-12T05:32:24.667707586Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5494,7 +5511,7 @@ entries:
     version: v9
   - apiVersion: v2
     appVersion: v8
-    created: "2024-10-12T05:32:06.362313697Z"
+    created: "2024-10-12T05:32:24.659155481Z"
     dependencies:
     - condition: web-cache.enabled
       name: go-web-cache
@@ -5518,7 +5535,7 @@ entries:
     version: v8
   - apiVersion: v2
     appVersion: v7
-    created: "2024-10-12T05:32:06.353831454Z"
+    created: "2024-10-12T05:32:24.643615695Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -5542,7 +5559,7 @@ entries:
     version: v7
   - apiVersion: v2
     appVersion: v6
-    created: "2024-10-12T05:32:06.347741107Z"
+    created: "2024-10-12T05:32:24.630171511Z"
     dependencies:
     - condition: go-web-cache.enabled
       name: go-web-cache
@@ -5564,4 +5581,4 @@ entries:
     urls:
     - https://charts.support.tools/website-v6.tgz
     version: v6
-generated: "2024-10-12T05:32:06.217880003Z"
+generated: "2024-10-12T05:32:24.490970617Z"
