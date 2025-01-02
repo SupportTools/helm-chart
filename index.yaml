@@ -1263,7 +1263,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 9485bfe837ddf87bd73e4b9dc28ec6e4ff62f1a188e7e52908b215804e9b3354
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1287,7 +1287,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: dae739c7bec2643452fea68f572626536c075b065224a2a6576a2d104138e2b6
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1311,7 +1311,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 835feca0806d62c7b75eff874eaddee48e2fa4307eec38a4008e524824a31b10
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1335,7 +1335,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 6a81b4b8007fce90635bbd4734b97ade6bd7b61297124793d4ef835db66740ba
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1359,7 +1359,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: b0ced105e081e5406f14fe0504270cacd0017f3fe150f801412f305eaeb9b074
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1383,7 +1383,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 22e61e722a0d12ca646c312ac23485cc76286b88639c917660a0676b07f7918c
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1407,7 +1407,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 2833a220a609a5c63b68ec98ef25bd32c7e0412f7146e535637b130442921af7
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1431,7 +1431,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 0c903b2f4cee1eb1e467ae0ef3a2f78869fc19884e8c9c977e849403ddbf87d1
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1455,7 +1455,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 671341fbdc0b43d2e679e1315fcf6b1edec217dde18c40415c227ebc27ac5db6
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1479,7 +1479,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 82ef47d91c4df7bf0ab1328ad15f28bd6a4c1da20520f49f1922445a838141eb
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1503,7 +1503,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: bf94f0624a93072124ade383793a3d9101e0efa0047c212d334835fb863725c9
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1527,7 +1527,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 7fb4c4b0b776af9cd1115b63c82fc764cabbb1b0c1699a64680076a29043b152
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1551,7 +1551,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 5820d01aee9bb0daf912addd8c8e7831bbbd3ff6fe1d5b3a2ee492199517db69
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1575,7 +1575,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 2883fcfe3cfa69a0d8a68a5eaaa973b3ab61fb0ded3d89d54df26ffa7828f63b
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1599,7 +1599,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 4f95644db35c7858e2bdfed18836b66241449cd46ff1cc6eecab2d80472c74b7
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1623,7 +1623,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 0d17d4a0795d9517628eb98aa556b11042b9bd2afe7a3a51f5cac750620836a3
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1647,7 +1647,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 1a17ee7ed60a2187e266ee2f6d5fecc7e7d1a56a65acda0ba17bc4743c7be9f1
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1671,7 +1671,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 879f152dd3f939c380ba0c6fd585de0e10d549b5cf6bc434a4c97defd46bcfcf
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1695,7 +1695,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 05d1310bbba0576b96c993165fb9615dcf2190401723c4f28674452fe57380ef
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1719,7 +1719,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 0858ba82c5180a405b60bd8ad83d5cd1a04be98cc524577c627f47da60425216
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1743,7 +1743,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 8eabe6314669e58d1275ce3d0b0948ea2f7e302062930c4098e4d3e37f54484f
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1767,7 +1767,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 25c5d1ccc2fdbef1b5460978908cff228b10d73d550c6f1e607b180f03bc7b60
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1791,7 +1791,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 61f92a0c0d7aac2863cbcbb539d9df3aa48180b06046703b7fba32649e184d89
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1815,7 +1815,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 3a8ed623096133636867b009eb13dfcfbd3ed8041917532dfd2513d88b990332
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1839,7 +1839,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: b7d982600e3cd90d0930b40f60ccfc5b05cc7c641c7c5e0800e095c78f1b1ff9
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1863,7 +1863,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: ff1814aaa51270bc4764baacb3df829dca053f546b36d28bdecff389565873ec
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1887,7 +1887,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 721bfac8f42969830b116b6e52ed283943753f2fdd1dc36297c1a02c134a33d1
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1911,7 +1911,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: f7eb7f172f0e7cecdfc0a11054ec7b527ebe5987b4cce555034e82ba6778c297
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1935,7 +1935,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: beb869805dc423788fa7e800cb03c608e3cb0082ae82db08dd9a32c381f3c093
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -1959,7 +1959,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: 7d76a084c02cf0d587f563ceba9c871db7025fb6416509f915f93baa7f90c168
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -10879,7 +10879,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: e7eef14ff964f4801ccab953c3b3c45142a7d69d1dd61159ddefe036da3381f8
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
@@ -10903,7 +10903,7 @@ entries:
     description: A Helm chart for mattoxengineering.com website
     digest: b7c31961d21e52e6df72fd17567b2b86ae23c5437d58c4d7e5e08bbc23d4abc2
     home: https://mattoxengineering.com
-    icon: htthttps://cdn.mattoxengineering.com/ProfileLogo-circle.png
+    icon: https://cdn.mattoxengineering.com/ProfileLogo-circle.png
     keywords:
     - kubernetes
     - website
